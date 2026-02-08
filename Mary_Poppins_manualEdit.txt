@@ -14,19 +14,19 @@
 [STAGE] (The CHILDREN stamp on KATIE NANNA's foot and succeed in losing her, Their freedom is short-lived as they run straight into the local POLICEMAN.)
 [POLICEMAN] Oi! Not you two again! Come along home! Oi - come here!
 [PAGE#] 2
-[STAGE] (The POL! EMAN takes the CHILDREN away as BERT stops in front of No. 17 Cherry Tree Lane. MTSS LARK it' coming the other way with TNILLOUGHBY, her lap-dog.)
+[STAGE] (The POLICEMAN takes the CHILDREN away as BERT stops in front of No. 17 Cherry Tree Lane. MTSS LARK is coming the other way with WILLOUGHBY, her lap-dog.)
 [MISS LARK] Good morning, Bert
 [BERT] Mornin' Mis' Lark, and how's little Willoughby today?
-[MISS LARK] Oh, very \"relC thank you, Bert.
-[STAGE] (VvTLLOUGHBY snaps at BERT.)
+[MISS LARK] Oh, very well thank you, Bert.
+[STAGE] (WILLOUGHBY snaps at BERT.)
 [MISS LARK] Willoughby!
-[STAGE] (ADMlRAL BOOM enters, carnJing orne binoculars.)
-[ADMIRAL BOOM] Bv Jove, is that tbe beauteous Miss Lark I spy on the horizon?
+[STAGE] (ADMIRAL BOOM enters, carrying some binoculars.)
+[ADMIRAL BOOM] By Jove, is that the beauteous Miss Lark I spy on the horizon?
 [MISS LARK] Oh Admiral...
-[STAGE] (WlLLOLlGHB Y barks.)
+[STAGE] (WILLOUGHBY barks.)
 [MISS LARK] Willoughby!
-[STAGE] (MISS LARK giggles coquettishly and continues on her Lmy. ADMIRAL BOOM crosses to where BERT has been watching.)
-[BERT] Morrun', Admiral. How's it looking?
+[STAGE] (MISS LARK giggles coquettishly and continues on her way. ADMIRAL BOOM crosses to where BERT has been watching.)
+[BERT] Morinn', Admiral. How's it looking?
 [ADMIRAL BOOM] Dark clouds gathering at No. 17-storm warning's verdue.
 [STAGE] (ADMTRAL BOOM exits.)
 [~] [BERT] OF ALL LONDON 'S BY-WAYS WHERE I DOFF MY ~ P, THIS O:-.JE'S THE HARDEST TO FT;-.JD ON AMP CHERRY TR E LANE, AS WEET 5 A SONG, BUT mE KA I\[ES WHO COME HERE, THEY DO!,\'T STAY FOR LONG. CHIM CHlMINEY, CHIM CHIM CHER-EE CHIM 'HER-OO.
