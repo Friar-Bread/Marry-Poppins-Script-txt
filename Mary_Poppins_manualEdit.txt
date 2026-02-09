@@ -1988,6 +1988,7 @@
 [SWEEPS] Step in time!
 [~] [SWEEPS] STEP, STEP, STEP, STEP, STEP, STEP, STEP, STEP, STEP, STEP.
 [BERT] Down the chimney!
+[PAGE#] 104
 [~] [BERT, SWEEPS] DOWN THE CHIMNEY, STEP IN TIME. DOWN THE CHIMNEY, STEP IN TIME. NEVER NEED A REASON, NEVER NEED A RHYME. DOWN THE CHIMNEY, STEP IN TIME.
 [BERT] Back to the nursery!
 [~] [BERT, SWEEPS] BACK TO THE NURS'RY , STEP IN TIME. BACK TO THE NURS'RY, STEP IN TIME. NEVER NEED A REASON, NEVER NEED A RHYME. BACK TO THE NURS'RY, STEP IN TIME.
@@ -1999,6 +2000,7 @@
 [~] [BERT, SWEEPS] SPECIAL DELIV'RY, STEP IN TIME. SPECIAL DELIV'RY, STEP IN TIME. NEVER NEED A REASON, NEVER NEED A RHYME. SPECIAL DELIV'RY, STEP IN TIME.
 [BERT] Time to go now. Goodnight, Guv'nor.
 [~] [BERT, SWEEPS] GOODNIGHT, GUV'NOR, STEP IN TIME. GOODNIGHT, GUV'NOR, STEP IN TIME. NEVER NEED A REASON , NEVER NEED A RHYME . GOODNIGHT, GUV'NOR , STEP IN TIME.
+[PAGE#] 105
 [STAGE] (Without another word, the SWEEPS dance out past the dazed GEORGE through the open front door, carrying the MESSENGER with them. They greet GEORGE variously as they pass.)
 [SWEEPS] Good night, Guv'nor. Cheerio, Guv'nor. G'night, Guv'nor.
 [STAGE] (disguised as a SWEEP)
@@ -2009,6 +2011,7 @@
 [GEORGE] Yes?
 [MARY POPPINS] I never explain anything. Come along, children.
 [STAGE] (MARY POPPINS goes upstairs with JANE and MICHAEL.)
+[PAGE#] 106
 [HEADER] SCENE 9: A MAN HAS DREAMS - Parlor
 [STAGE] (The sweeps have gone; only BERT lingers, unnoticed by the rest. GEORGE has opened the letter. WINIFRED comes over. He looks up.)
 [GEORGE] It's happened. The Chairman wants to see me at the close of business tonight.
@@ -2025,6 +2028,7 @@
 [MRS. BRILL] Ah! The heirloom!
 [STAGE] (Pulling out a huge handkerchief MRS. BRILL starts to blub uncontrollably. This is not helping the stunned GEORGE.)
 [WINIFRED] Mrs. Brill, let's go to the kitchen, shall we? You'd better sit down ...
+[PAGE#] 107
 [STAGE] (MARY POPPINS appears on the landing and sniffs the air.)
 [MARY POPPINS] Mrs. Brill, is that the dirmer cooking?
 [STAGE] (lifts her face from her handkerchief)
@@ -2043,6 +2047,7 @@
 [GEORGE] Aren't they? Even after all this time.
 [BERT] Here, let me give you a hand.
 [STAGE] (BERT helps to pick up the pieces of the vase.)
+[PAGE#] 108
 [GEORGE] I used to dream that when I grew up I'd learn everything there was to know about the stars.
 [STAGE] (thoughtful pause)
 [GEORGE] Funny. I haven't thought about all that in years. I'm not usually sentimental.
@@ -2058,6 +2063,7 @@
 [~] [BERT] A SPOONFUL OF SUGAR, THAT IS ALL IT TAKES. IT CHANGES BREAD AND WATER INTO TEA AND CAKES. A SPOONFUL OF SUGAR GOES A LONG, LONG WAY, SO' AVE YOURSELF AN 'EALTHY 'ELPING EVERY DAY.
 [GEORGE] A healthy helping of trouble if you ask me!
 [STAGE] (GEORGE attempts to occupy himself with papers in his study.)
+[PAGE#] 109
 [BERT] Like you say, Guv'nor.
 [STAGE] (placing the vase pieces carefully in the rubbish bin)
 [~] [BERT] YOU'VE GOT TO GRIND, GRIND, GRIND AT THAT GRINDSTONE THOUGH CHILDHOOD SLIPS LIKE SAND THROUGH A SIEVE. AND ALL TOO SOON THEY'VE UP AND GROWN,  AND THEN THEY'VE FLOWN, AND IT'S TOO LATE FOR YOU TO GIVE ...
@@ -2075,6 +2081,7 @@
 [STAGE] (But GEORGE is less severe than usual. JANE approaches.)
 [JANE] Daddy, do you remember when we carne to the bank?
 [GEORGE] Yes.
+[PAGE#] 110
 [JANE] Well we were each given a sixpence, and were told to spend them carefully.
 [GEORGE] Excellent advice. That's exactly what you should do. What did you buy with them?
 [JANE] Nothing yet. We kept them. And now we've decided to give them to you.
@@ -2091,6 +2098,7 @@
 [GEORGE] It was Poseidon, King of the Sea. Goodnight.
 [SONG] #20 - King of the Sea orchestra
 [STAGE] (The CHILDREN head up to the nursery, passing MARY POPPINS. GEORGE goes into his study. MARY POPPINS swiftly places the object -Michael's broken makeshift kite -on the floor of the hall, then sails upstairs. GEORGE emerges from his study and sees the kite. Thoughtfully, he picks it up.)
+[PAGE#] 111
 [HEADER] SCENE 10: ANYTHING CAN HAPPEN, PART 1 -Nursery
 [STAGE] (WINIFRED tucks the CHILDREN into bed.)
 [JANE] Mummy? Daddy's really worried, isn't he?
@@ -2109,6 +2117,7 @@
 [SONG] #21 - Anything Can Happen (Part 1)
 [STAGE] Mary Poppins, Jane, Michael, Winifred, Bird Woman, Board of Directors
 [WINIFRED] Do you really believe that, Mary Poppins?
+[PAGE#] 112
 [~] [MARY POPPINS] ANYTHING CAN HAPPEN IF YOU LET IT. SOMETIMES THINGS ARE DIFFICULT, BUT YOU CAN BET IT DOESN'T HAVE TO BE SO.
 [~] [JANE] CHANGE CAN BE MADE
 [~] [MICHAEL] YOU CAN MOVE A MOUNTAIN IF YOU USE A LARGER SPADE.
@@ -2123,6 +2132,7 @@
 [~] [WINIFRED] YOU WON'T KNOW A CHALLENGE UNTIL YOU'VE MET IT.
 [~] [MICHAEL] NO-ONE DOES IT FOR YOU,
 [~] [WINIFRED] NO-ONE BUT YOURSELF VACILLATING VIOLETS GET LEFT UP ON THE SHELF. ANYTHING CAN HAPPEN, JUST IMAGINE!
+[PAGE#] 113
 [~] [MARY POPPINS] THAT SHOULD BE MY EPITAPH: I WEAR THE BADGE IN HONOR OF THIS WORLD 'S FREE THINKERS ,
 [~] [WINIFRED] THOSE WHO SEE BEYOND THEIR BLINKERS.
 [~] [JANE, MICHAEL] JELLY ISN'T JELLY
@@ -2131,6 +2141,7 @@
 [STAGE] (WINIFRED exits. MARY POPPINS looks out of the nursery, clearly with something in mind.)
 [~] [MARY POPPINS] IF YOU REACH FOR THE STARS, ALL YOU GET ARE THE STARS, BUT WE'VE FOUND A WHOLE NEW SPIN. IF YOU REACH FOR THE HEAVENS, YOU GET THE STARS THROWN IN.
 [STAGE] (MARY POPPINS takes the CHILDREN's hands, and together they step out of the nursery and fly over the rooftops of London.)
+[PAGE#] 114
 [HEADER] SCENE 11: ANYTHING CAN HAPPEN, PART 2 - Cathedral Steps, Bank
 [STAGE] (On a street near the steps of St. Paul's Cathedral, MARY POPPINS and the CHILDREN become spectators, unseen by the others. Snow starts to fall. The BIRD WOMAN scatters corn for the pigeons. GEORGE enters and walks until, as a background to his troubled thoughts, he sees her.)
 [~] [BIRD WOMAN] FEED THE BIRDS, TUPPENCE A BAG, TUPPENCE, TUPPENCE, TUPPENCE A BAG.
