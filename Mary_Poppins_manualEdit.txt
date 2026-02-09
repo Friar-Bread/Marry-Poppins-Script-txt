@@ -31,19 +31,19 @@
 [STAGE] (ADMTRAL BOOM exits.)
 [~] [BERT] OF ALL LONDON'S BY-WAYS WHERE I DOFF MY CAP, THIS ONE'S THE HARDEST TO FIND ON MAP. CHERRY TREE LANE, AS SWEET AS A SONG, BUT THE NANNIES WHO COME HERE, THEY DON'T STAY FOR LONG. CHIM CHIMINEY, CHIM CHIM CHER-EE CHIM CHER-OO.
 [PAGE#3]
-
 [HEADER] #2 - Cherry Tree Lane (Part 1) Mrs. Brill, Winifred, Robertson Ay, Jane, Michael, George
 [STAGE] (BERT snaps-his fingers and the interior of the house bursts into life. It's chaos: KATIE NANNA storms toward the door with her packed bags.)
 [MRS. BRILL] Katie Nanna! Katie Nanna!
-[KATIE NANNA] Those little bEasts have run awa\" from me for the last time!
-[STAGE] (MRS f3RLLL the cook/Ir lISekeqJef , uustles after KATIE NANNA. The house boy, 1 OBER [SON A Y, follows them)
-[MRS. BRILL] And who g~t. tuck with the children with no nanny in the house? Me! That's who'
-[KATIE NANNA] I've said my sa;., Mrs. Brill, J.nd that's all I'll sa . I've done with thi house forever'
-[MRS. BRILL] Well, good ridJ<'lnce, then. nd mind you don't stumble on. our way out!
-[STAGE] (KA TIE ; N A ~tutn bles. MI HAEL and JANE have run into the house. W[?\[FREO BA KS 1l!1s appeared;1I time to witness KATIE ANi A storming out.)
-[WINIFRED] Katie Nanna? \\'here are you going. Katie. Nanna!?
-[~] [MRS. BRILL] KATiE .\:A:'\f.'\J '5 G ~E, A 'D rs IT MY WONDER, DR[\'E~ HALF DEME1'.TID BY YOCR CHILDREN'S PR NKS?
-[~] [WINIFRED] DO VOL REALLY THfNK [ MADE ANOTHER BLU DER? \VI-fAT ON EARTH t...:v1 T TO SAY TO MR. BA K?
+[KATIE NANNA] Those little bEasts have run away from me for the last time!
+[STAGE] (MRS BRILL the cook/housekeeper, bustles after KATIE NANNA. The house boy, ROBERTSON AY, follows them)
+[MRS. BRILL] And who gets stuck with the children with no nanny in the house? Me! That's who!
+[KATIE NANNA] I've said my say, Mrs. Brill, and that's all I'll say. I've done with this house forever!
+[MRS. BRILL] Well, good riddance, then. And mind you don't stumble on your way out!
+[STAGE] (KATIE NANNA stumbles. MICHAEL and JANE have run into the house. WINIFRED BANKS has appeared in time to witness KATIE NANNA storming out.)
+[WINIFRED] Katie Nanna? Where are you going? Katie Nanna!?
+[~] [MRS. BRILL] KATIE NANNA'S GONE AND IS IT ANY WONDER, DRIVEN HALF DEMENTED BY YOUR CHILDREN'S PRANKS?
+
+[~] [WINIFRED] DO YOU REALLY THfNK [ MADE ANOTHER BLU DER? \VI-fAT ON EARTH t...:v1 T TO SAY TO MR. BA K?
 [STAGE] (knocks at the study door)
 [~] [WINIFRED] GEORGE ,DEA R, r M FEELI'-.:G 0 BEREFT DE R. ANOTHER. 'ANl\.'Y'S LEFT, DEAR. EVER Y j\; A !\. Y GOES. WE'RE U'\J UCKY ISL"PPO E.
 [PAGE#] 4
