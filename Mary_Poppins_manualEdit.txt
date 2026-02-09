@@ -31,11 +31,12 @@
 [STAGE] (ADMTRAL BOOM exits.)
 [~] [BERT] OF ALL LONDON 'S BY-WAYS WHERE I DOFF MY ~ P, THIS O:-.JE'S THE HARDEST TO FT;-.JD ON AMP CHERRY TR E LANE, AS WEET 5 A SONG, BUT mE KA I\[ES WHO COME HERE, THEY DO!,\'T STAY FOR LONG. CHIM CHlMINEY, CHIM CHIM CHER-EE CHIM 'HER-OO.
 [PAGE#3]
-[HEADER] #2 -Cflerry Tree Lnne (Part 1) Mrs. Brill, Winifred, Robertson Ay, Jane, Michael, George
-[STAGE] (BERT snapE-his fingers and the intenD]" of the house bursts into life. It's chaos: K.A TIE, Al -A <;t(Jrms torm,-d the d(Jor "[('lth her packed ba?(s.)
-[MRS. BRILL] Katie ;\;anna! Katie Nanna!
+
+[HEADER] #2 -Cherry Tree Lane (Part 1) Mrs. Brill, Winifred, Robertson Ay, Jane, Michael, George
+[STAGE] (BERT snapE-his fingers and the intenD]" of the house bursts into life. It's chaos: KATIE, Al -A <;t(Jrms torm,-d the d(Jor "[('lth her packed ba?(s.)
+[MRS. BRILL] Katie Nanna! Katie Nanna!
 [KATIE NANNA] Those little bEasts have run awa\" from me for the last time!
-[STAGE] (MRS f3RLLL the cook/Ir lISekeqJef , uustles after KA TiE NAI A. The house boy, 1 OBER [SON A Y, follows them)
+[STAGE] (MRS f3RLLL the cook/Ir lISekeqJef , uustles after KATIE NANNA. The house boy, 1 OBER [SON A Y, follows them)
 [MRS. BRILL] And who g~t. tuck with the children with no nanny in the house? Me! That's who'
 [KATIE NANNA] I've said my sa;., Mrs. Brill, J.nd that's all I'll sa . I've done with thi house forever'
 [MRS. BRILL] Well, good ridJ<'lnce, then. nd mind you don't stumble on. our way out!
@@ -44,7 +45,7 @@
 [~] [MRS. BRILL] KATiE .\:A:'\f.'\J '5 G ~E, A 'D rs IT MY WONDER, DR[\'E~ HALF DEME1'.TID BY YOCR CHILDREN'S PR NKS?
 [~] [WINIFRED] DO VOL REALLY THfNK [ MADE ANOTHER BLU DER? \VI-fAT ON EARTH t...:v1 T TO SAY TO MR. BA K?
 [STAGE] (knocks at the study door)
-[~] [WINIFRED] GEORG ,DEA R, r M FEELI'-.:G 0 BEREFT DE R. ANOTHER. 'ANl\.'Y'S LEFT, DEAR. EVER Y j\; A !\. Y GOES. WE'RE U'\J UCKY ISL"PPO E.
+[~] [WINIFRED] GEORGE ,DEA R, r M FEELI'-.:G 0 BEREFT DE R. ANOTHER. 'ANl\.'Y'S LEFT, DEAR. EVER Y j\; A !\. Y GOES. WE'RE U'\J UCKY ISL"PPO E.
 [PAGE#] 4
 [~] [MRS. BRILL, ROBERTSON AY, JANE, MICHAEL] WE ARE KEVER GOTI C TO FIND THE PERFECT ANNY,
 [STAGE] (The stlldy door/lies open and GEORGE stride~ Ollt)
