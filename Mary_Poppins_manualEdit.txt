@@ -1908,12 +1908,12 @@
 [STAGE] (JANE is whisked up the chimney.)
 [STAGE] (offstage, variously)
 [JANE, MICHAEL] Mary Poppins! Mary Poppins! What's happening? Mary Poppins! Mary Poppins!
-[HEADER] SCENE 8: STEP IN TIME -Roof, Nursery, Parlor
-[STAGE] (BERT sits on the rooftop. Looking dazed, JANE and MICHAEL appear at the top of
-[STAGE] the chimney and see BERT.)
+
+[HEADER] SCENE 8: STEP IN TIME - Roof, Nursery, Parlor
+[STAGE] (BERT sits on the rooftop. Looking dazed, JANE and MICHAEL appear at the top of the chimney and see BERT.)
 [MICHAEL] Hello there!
 [STAGE] (BERT helps the CHILDREN out of the chimney and across the roof)
-[SONG] #19-Stcp ill Tillie Bert, Michael, Jane, Sweeps, Mary Poppins
+[SONG] #19-Stop in Time Bert, Michael, Jane, Sweeps, Mary Poppins
 [JANE] Bert! What are you doing up here?
 [BERT] And where else should a chimney sweep be?
 [~] [BERT] A CHIMNEY SWEPT, A SECRET KEPT,
@@ -1921,10 +1921,10 @@
 [~] [BERT] ANOTHER WORLD TO BE UNFURLED,
 [~] [BERT] IT AINT JUST MYTHS AND FABLES.
 [~] [BERT] A CHIMNEY STACK LOOKS COLD AND BLACK
-[~] [AGAINST A TWILIT SKY.] BUT NEVER FEAR, THERE'S WARMTH UP HERE.
-[~] [AGAINST A TWILIT SKY.] PERHAPS YOU'LL FIND OUT WHY.
-[AGAINST A TWILIT SKY.] (MARY POPPINS appears on the roof She takes a powder compact from a pocket and
-[AGAINST A TWILIT SKY.] checks her face.)
+[~] [BERT] AGAINST A TWILIT SKY.
+[~] [BERT] BUT NEVER FEAR, THERE'S WARMTH UP HERE.
+[~] [BERT] PERHAPS YOU'LL FIND OUT WHY.
+[STAGE] (MARY POPPINS appears on the roof She takes a powder compact from a pocket and checks her face.)
 [MARY POPPINS] What do I look like?
 [STAGE] (evens out the soot with a powder puff)
 [MARY POPPINS] That's better.
@@ -1932,51 +1932,57 @@
 [MARY POPPINS] And what does that tell you?
 [MICHAEL] That we are awfully small and unimportant?
 [MARY POPPINS] Oh, speak for yourself.
-[JANE] Not us, so much, but our troubles. They seem so big down in the nursery, but up
-[JANE] here ...
-[BERT] That's more like it. Troubles are never so bad when you look at them from a little
-[BERT] higher up. And always remember, there's plenty of folk ready to help you should
-[BERT] you need 'em.
-[BERT] Who? JANE
+[JANE] Not us, so much, but our troubles. They seem so big down in the nursery, but up here ...
+[BERT] That's more like it. Troubles are never so bad when you look at them from a little higher up. And always remember, there's plenty of folk ready to help you should you need 'em.
+[JANE] Who?
 [~] [BERT] CHIM CHIMINEY, CHIM CHIMINEY, CHIM CHIM CHER-EE.
 [~] [BERT] NOW, GUARDIAN ANGELS YOU DON'T OFTEN SEE.
-[~] [BERT] THEY'RE NOT HIGHFAL UTIN', NOT GRAND NOR ALOOF. -99 -
-[BERT] NAH, THEy'RE COVERED IN SOOT, AND THEY'RE UP ON YOUR ROOF.
-[BERT] See, it's true! JANE, MICHAEL
-[~] [BERT] CHIM CHIMINEY , CHIM CHIM CHER-EE-
+[~] [BERT] THEY'RE NOT HIGHFALUTIN', NOT GRAND NOR ALOOF.
+[~] [BERT] NAH, THEY'RE COVERED IN SOOT, AND THEY'RE UP ON YOUR ROOF.
+[~] [JANE, MICHAEL] CHIM CHIMINEY , CHIM CHIM CHER-EE-
+[BERT] See, it's true!
 [STAGE] (A motley gang of CHIMNEY SWEEPS is revealed.)
 [~] [SWEEP 1] BRUSH AWAY THE DIRT AND SOOT.
+[~] [SWEEP 2] BRUSH AWAY YOUR TEARS
 [~] [SWEEP 3] COBWEBS THAT AREN'T SWEPT AWAY
-[~] [SWEEPS] IN ALL WEATHER S, UP ALL HOURS,
+[~] [SWEEP 4] HANG AROUND FOR YEARS
+[~] [SWEEPS] IN ALL WEATHERS, UP ALL HOURS,
 [~] [SWEEPS] WE CAN SEE FOR MILES.
 [~] [SWEEPS] OUR IDEA OF HEAVEN IS
 [~] [SWEEPS] A NIGHT OUT ON THE TILES.
-[STAGE] (SWEEPS)
-[~] [-100 - MARY POPPINS] WE MAY LOOK A MOTLEY CREW
-[STAGE] (WE MAY LOOK A MOTLEY CREW)
-[~] [-100 - MARY POPPINS] SMUDGED WITH TAR AND GRIME,
-[STAGE] (SMUDGED WITH TAR AND GRIME)
-[~] [-100 - MARY POPPINS] BUT WHEN YOU NEED A HELPING HAND,
-[STAGE] (WHEN YOU NEED A HELPING HAND)
-[~] [-100 - MARY POPPINS] WE TRY TO STEP IN
-[STAGE] (TRY TO STEP IN)
-[~] [BERT] NEVER NEED A REASON, NEVER NEED A RHYME .
-[~] [STEP IN TIME.] OVER THE ROOFTOPS, STEP IN TIME.
-[~] [STEP IN TIME.] OVER THE ROOFTOPS, STEP IN TIME.
-[~] [STEP IN TIME.] NEVER NEED A REASON, NEVER NEED A RHYME.
-[~] [STEP IN TIME.] OVER THE ROOFTOPS, STEP IN TIME.
-[~] [STEP IN TIME.] WATCH YOUR STEP, BUT STEP IN TIME.
-[~] [STEP IN TIME.] WATCH YOUR STEP, BUT STEP IN TIME.
-[~] [STEP IN TIME.] NEVER NEED A REASON, NEVER NEED A RHYME.
-[~] [STEP IN TIME.] WATCH WHERE YOU STEP, BUT STEP IN TIME.
-[~] [STEP IN TIME.] KICK YOUR KNEES UP, STEP IN TIME.
-[~] [STEP IN TIME.] KICK YOUR KNEES UP, STEP IN TIME.
-[STEP IN TIME.] Whew! MARY POPPINS
-[STAGE] (BERT, SWEEPS)
-[~] [STEP IN TIME.] NEVER NEED A REASON, NEVER NEED A RHYME .
-[~] [STEP IN TIME.] KICK YOUR KNEES UP, STEP IN TIME.
+[~] [SWEEPS] WE MAY LOOK A MOTLEY CREW
+[~] [SWEEPS] (WE MAY LOOK A MOTLEY CREW)
+[~] [SWEEPS] SMUDGED WITH TAR AND GRIME,
+[~] [SWEEPS] (SMUDGED WITH TAR AND GRIME)
+[~] [SWEEPS] BUT WHEN YOU NEED A HELPING HAND,
+[~] [SWEEPS] (WHEN YOU NEED A HELPING HAND)
+[~] [SWEEPS] WE TRY TO STEP IN
+[~] [SWEEPS] (TRY TO STEP IN)
+[~] [SWEEPS] TRY TO STEP IN
+[~] [SWEEPS] JUST IN TIME.
+[~] [BERT] WE WILL STEP IN
+[~] [SWEEPS] STEP IN TIME
+[~] [BERT] WE WILL STEP IN
+[~] [SWEEPS] STEP IN TIME
+[~] [BERT] NEVER NEED A REASON, NEVER NEED A RHYME.
+[~] [BERT] TRY TO STEP IN
+[~] [BERT, SWEEPS] STEP IN TIME
+[~] [BERT, SWEEPS] OVER THE ROOFTOPS, STEP IN TIME.
+[~] [BERT, SWEEPS] OVER THE ROOFTOPS, STEP IN TIME.
+[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME.
+[~] [BERT, SWEEPS] OVER THE ROOFTOPS, STEP IN TIME.
+[~] [BERT, SWEEPS] WATCH YOUR STEP, BUT STEP IN TIME.
+[~] [BERT, SWEEPS] WATCH YOUR STEP, BUT STEP IN TIME.
+[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME.
+[~] [BERT, SWEEPS] WATCH WHERE YOU STEP, BUT STEP IN TIME.
+[~] [BERT, SWEEPS] KICK YOUR KNEES UP, STEP IN TIME.
+[~] [BERT, SWEEPS] KICK YOUR KNEES UP, STEP IN TIME.
+[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME .
+[~] [BERT, SWEEPS] KICK YOUR KNEES UP, STEP IN TIME.
 [~] [MARY POPPINS] CHILDHOOD IS A STEP IN TIME,
+[~] [MARY POPPINS] PARENTHOOD'S THE SAME
 [~] [MARY POPPINS, BERT] NEVER MISS A CHANCE TO GET IT RIGHT.
+[SWEEPS] Whew!
 [~] [BERT] DON'T IT SEEM A PERFECT CRIME,
 [~] [BERT] DON'T IT SEEM A SHAME,
 [~] [MARY POPPINS, BERT] WHEN THE STEPS AREN'T GOING
@@ -1986,143 +1992,257 @@
 [~] [SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME.
 [~] [SWEEPS] THAT'S WHEN WE STEP IN, STEP IN TIME.
 [STAGE] (Dance sequence.)
-[SWEEPS] Here we go! BERT
+[BERT] Here we go!
 [~] [ALL] SPIN SPIN SPIN SPIN SPIN.
+
 [~] [ALL] LINK YOUR ELBOWS, STEP IN TIME.
+
 [~] [ALL] LINK YOUR ELBOWS, STEP IN TIME.
-[~] [ALL] NEVER NEED A REASON , NEVER NEED A RHYME.
+
+[~] [ALL] NEVER NEED A REASON, NEVER NEED A RHYME.
+
 [~] [ALL] LINK YOUR ELBOWS, STEP IN TIME.
+
 [~] [ALL] LINK YOUR ELBOWS , STEP IN TIME.
-[~] [ALL] STEP IN TIME, STEP-STEP IN TIME. -101
-[ALL] (The SWEEPS , BERT, and MARY POPPINS perform an extended dance section. Bert
-[STAGE] orchestrates the action with "Your turn," "And you," etc.)
+
+[~] [ALL] STEP IN TIME, STEP-STEP IN TIME.
+
+[STAGE] (The SWEEPS , BERT, and MARY POPPINS perform an extended dance section. Bert orchestrates the action with "Your turn," "And you," etc.)
+
 [~] [MARY POPPINS] JUST REMEMBER, WHEN YOU'RE LOW,
+
+[~] [MARY POPPINS] FEELING IN THE WARS
+
+[~] [SWEEPS] SOMEONE'S UP YOUR CHIMNEY
+
 [~] [MARY POPPINS] AND IT ISN'T SANTA CLAUS!
+
 [~] [SWEEPS] IF YOU NEED US, IF YOU DON'T
+
 [~] [SWEEPS] (IF YOU NEED US, IF YOU DON'T),
-[~] [(DOESN'T MAKE MUCH ODDS),] WE'LL BE WATCHING OVER YOU
-[~] [(DOESN'T MAKE MUCH ODDS),] (WE'LL BE WATCHING OVER YOU),
-[STAGE] (BRUSHES , BROOMS AND)
+
+[~] [SWEEPS] DOESN'T MAKE MUCH ODDS
+
+[~] [SWEEPS] (DOESN'T MAKE MUCH ODDS)
+
+[~] [SWEEPS] WE'LL BE WATCHING OVER YOU
+
+[~] [SWEEPS] (WE'LL BE WATCHING OVER YOU),
+
+[~] [SWEEPS] BRUSHES , BROOMS AND
+
+[~] [SWEEPS] (BRUSHES , BROOMS AND)
+
+[~] [SWEEPS] BRUSHES, BRUSHES, BROOMS
+
+[~] [BERT] AND RODS!
+
 [STAGE] (BERT begins an impressive climb over the rooftops.)
+
+[~] [BERT, SWEEPS] OVER THE ROOFTOPS.
+
+[~] [BERT, SWEEPS] OVER THE ROOFTOPS.
+
+[~] [BERT, SWEEPS] OVER THE ROOFTOPS.
+
+[~] [BERT, SWEEPS] OVER THE ROOFTOPS.
+
+[~] [BERT, SWEEPS] OVER THE ROOFTOPS, STEP IN TIME.
+
 [~] [OVER THE ROOFTOPS.] OVER THE ROOFTOPS, STEP IN TIME.
-[~] [OVER THE ROOFTOPS.] OVER THE ROOFTOPS, STEP IN TIME.
+
 [~] [OVER THE ROOFTOPS.] NEVER NEED A REASON, NEVER NEED A RHYME.
+
 [STAGE] (from a high perch)
+
 [~] [BERT] OVER THE ROOFTOPS, STEP IN TIME!
+
 [~] [BERT, SWEEPS] LINK YOUR ELBOWS, STEP IN TIME.
-[~] [BERT, SWEEPS] LINK YOUR ELBOWS , STEP IN TIME.
-[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME.
+
 [~] [BERT, SWEEPS] LINK YOUR ELBOWS, STEP IN TIME.
-[STAGE] (BERT & SWEEPS)
-[~] [MARY POPPINS] KICK YOUR KNEES UP, STEP IN TIME.
-[~] [MARY POPPINS] KICK YOUR KNEES UP, STEP IN TIME.
-[~] [MARY POPPINS] NEVER NEED A REASON, NEVER NEED A RHYME .
-[~] [MARY POPPINS] KICK YOUR KNEES UP, STEP IN TIME.
-[~] [MARY POPPINS] OH, STEP IN TIME (STEP IN TIME).
-[~] [STEP STEP STEP.] STEP IN TIME (STEP IN TIME).
-[~] [STEP STEP STEP.] NEVER NEED A REASON, NEVER NEED A RHYME .
-[~] [STEP STEP STEP.] NEVER NEED A REASON, NEVER NEED A RHYME.
-[~] [STEP STEP STEP.] IF YOU KICK YOUR KNEES UP,
-[KICK YOUR KNEES UP,] KICK YOUR KNEES Up,
-[KICK YOUR KNEES UP,] KICK YOUR KNEES lW
-[~] [STEP STEP STEP STEP,] STEP STEP STEP STEP STEP STEP STEP.
-[~] [STEP STEP STEP STEP,] NEVER NEED A REASON IF YOU STEP IN TIME! -103 -
-[SONG] #19A -Dow/1 thc Chi1llllcy Bert, S\;VCCPS
-[STAGE] (Dance break as the house appears.)
-[BERT] What ya 'gonna do?
-[SWEEPS] Step in time!
-[BERT] Shout it louder!
-[SWEEPS] Step in time!
-[~] [SWEEPS] STEP, STEP, STEP, STEP, STEP,
-[~] [SWEEPS] STEP, STEP, STEP, STEP, STEP.
-[BERT] Down the chimney!
-[~] [BERT, SWEEPS] DOWN THE CHIMNEY, STEP IN TIME.
-[~] [BERT, SWEEPS] DOWN THE CHIMNEY, STEP IN TIME.
+
 [~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME.
-[~] [BERT, SWEEPS] DOWN THE CHIMNEY, STEP IN TIME.
-[BERT] Back to the nursery!
-[~] [BERT, SWEEPS] BACK TO THE NURS'RY , STEP IN TIME.
-[~] [BERT, SWEEPS] BACK TO THE NURS'RY, STEP IN TIME.
+
+[~] [BERT, SWEEPS] LINK YOUR ELBOWS, STEP IN TIME.
+
+[~] [BERT, SWEEPS] KICK YOUR KNEES UP, STEP IN TIME.
+
+[~] [BERT, SWEEPS] KICK YOUR KNEES UP, STEP IN TIME.
+
 [~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME.
-[~] [BERT, SWEEPS] BACK TO THE NURS'RY, STEP IN TIME.
-[BERT, SWEEPS] (The SWEEPS pass through the nursery down into the parlor, gathering up j\1RS.
-[BERT, SWEEPS] BRILL and ROBERTSON A Y as they do so. Then WINIFRED is caught up in the
-[BERT, SWEEPS] dance. The bell rings and rings again. At last GEORGE frees himself and opens the
-[BERT, SWEEPS] door to a MESSENGER.)
-[GEORGE] vVha t is this? VVha t is all this?
-[MESSENGER] Special delivery for George Banks, Esquire.
-[GEORGE] Special delivery?
-[STAGE] (The MESSENGER hands over the letter.)
-[~] [BERT, SWEEPS] SPECIAL DELIV'RY, STEP IN TIME.
-[~] [BERT, SWEEPS] SPECIAL DELIV'RY , STEP IN TIME.
+
+[~] [BERT, SWEEPS] KICK YOUR KNEES UP, STEP IN TIME.
+
+[~] [BERT, SWEEPS] OH, STEP IN TIME (STEP IN TIME).
+
+[~] [BERT, SWEEPS] STEP IN TIME (STEP IN TIME).
+
+[~] [BERT, SWEEPS] STEP STEP STEP.
+
 [~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME .
+
+[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME.
+
+[~] [BERT, SWEEPS] IF YOU KICK YOUR KNEES UP,
+
+[~] [BERT, SWEEPS] KICK YOUR KNEES UP,
+
+[~] [BERT, SWEEPS] KICK YOUR KNEES UP,
+
+[~] [BERT, SWEEPS] KICK YOUR KNEES UP,
+
+[~] [BERT, SWEEPS] STEP STEP,
+
+[~] [BERT, SWEEPS] STEP STEP STEP STEP,
+
+[~] [BERT, SWEEPS] STEP STEP STEP STEP,
+
+[~] [BERT, SWEEPS] STEP STEP STEP STEP STEP STEP STEP.
+
+[~] [BERT, SWEEPS] NEVER NEED A REASON IF YOU STEP IN TIME!
+
+[SONG] #19A - Down the Chimney Bert, Sweeps
+
+[STAGE] (Dance break as the house appears.)
+
+[BERT] What ya 'gonna do?
+
+[SWEEPS] Step in time!
+
+[BERT] Shout it louder!
+
+[SWEEPS] Step in time!
+
+[~] [SWEEPS] STEP, STEP, STEP, STEP, STEP,
+
+[~] [SWEEPS] STEP, STEP, STEP, STEP, STEP.
+
+[BERT] Down the chimney!
+
+[~] [BERT, SWEEPS] DOWN THE CHIMNEY, STEP IN TIME.
+
+[~] [BERT, SWEEPS] DOWN THE CHIMNEY, STEP IN TIME.
+
+[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME.
+
+[~] [BERT, SWEEPS] DOWN THE CHIMNEY, STEP IN TIME.
+
+[BERT] Back to the nursery!
+
+[~] [BERT, SWEEPS] BACK TO THE NURS'RY , STEP IN TIME.
+
+[~] [BERT, SWEEPS] BACK TO THE NURS'RY, STEP IN TIME.
+
+[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME.
+
+[~] [BERT, SWEEPS] BACK TO THE NURS'RY, STEP IN TIME.
+
+[STAGE] (The SWEEPS pass through the nursery down into the parlor, gathering up MRS. BRILL and ROBERTSON A Y as they do so. Then WINIFRED is caught up in the dance. The bell rings and rings again. At last GEORGE frees himself and opens the door to a MESSENGER.)
+
+[GEORGE] What is this? What is all this?
+
+[MESSENGER] Special delivery for George Banks, Esquire.
+
+[GEORGE] Special delivery?
+
+[STAGE] (The MESSENGER hands over the letter.)
+
 [~] [BERT, SWEEPS] SPECIAL DELIV'RY, STEP IN TIME.
+
+[~] [BERT, SWEEPS] SPECIAL DELIV'RY, STEP IN TIME.
+
+[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME .
+
+[~] [BERT, SWEEPS] SPECIAL DELIV'RY, STEP IN TIME.
+
 [BERT] Time to go now. Goodnight, Guv'nor.
+
 [~] [BERT, SWEEPS] GOODNIGHT, GUV'NOR, STEP IN TIME.
+
 [~] [BERT, SWEEPS] GOODNIGHT, GUV'NOR, STEP IN TIME.
+
 [~] [BERT, SWEEPS] NEVER NEED A REASON , NEVER NEED A RHYME .
+
 [~] [BERT, SWEEPS] GOODNIGHT, GUV'NOR , STEP IN TIME.
-[MARY POPPINS] (Without another word, the SWEEPS dance out past the dazed GEORGE through the
-[MARY POPPINS] open front door, carrying the MESSENGER with them. They greet GEORGE
-[MARY POPPINS] variously as they pass.)
-[STAGE] (SWEEPS)
-[MARY POPPINS] Good night, Guv'nor. Cheerio, Guv'nor. C'night, Guv'nor.
+
+[STAGE] (Without another word, the SWEEPS dance out past the dazed GEORGE through the open front door, carrying the MESSENGER with them. They greet GEORGE variously as they pass.)
+
+[SWEEPS] Good night, Guv'nor. Cheerio, Guv'nor. C'night, Guv'nor.
+
 [STAGE] (disguised as a SWEEP)
-[MARY POPPINS] Cheerio, Guv'nor. MICHAEL
+
+[MICHAEL] Cheerio, Guv'nor.
+
 [STAGE] (But this penultimate SWEEP looks a little familiar.)
-[GEORGE] Not so fast. Upstairs ... now! Jane, you too. Mary Pop pins, would you be good
-[GEORGE] enough to explain?
+
+[GEORGE] Not so fast. Upstairs ... now! Jane, you too. Mary Pop pins, would you be good enough to explain?
+
 [MARY POPPINS] First of all, I would like to make one thing clear.
+
 [GEORGE] Yes?
+
 [MARY POPPINS] I never explain anything. Come along, children.
-[MARY POPPINS] (MARY POPPINS goes upstairs with JANE and MICHAEL.) -105 -
-[HEADER] SCENE 9: A MAN HAS DREAMS -Parlor
-[STAGE] (The sweeps have gone; only BERT lingers, unnoticed by the rest. GEORGE has
-[STAGE] opened the letter. WINIFRED comes over. He looks up.)
+
+[STAGE] (MARY POPPINS goes upstairs with JANE and MICHAEL.)
+
+[HEADER] SCENE 9: A MAN HAS DREAMS - Parlor
+
+[STAGE] (The sweeps have gone; only BERT lingers, unnoticed by the rest. GEORGE has opened the letter. WINIFRED comes over. He looks up.)
+
 [GEORGE] It's happened. The Chairman wants to see me at the close of business tonight.
-[WINIFRED] Tonight! Well I'm going to come with you and jolly well give your Chairman a piece
-[WINIFRED] of my mind.
-[GEORGE] That would only make matters worse. We might as well face it. In just a few hours I
-[GEORGE] will have joined the ranks of the unemployed.
+
+[WINIFRED] Tonight! Well I'm going to come with you and jolly well give your Chairman a piece of my mind.
+
+[GEORGE] That would only make matters worse. We might as well face it. In just a few hours I will have joined the ranks of the unemployed.
+
 [WINIFRED] Oh, George. Are you quite sure?
+
 [GEORGE] Quite sure. So we'd better make some plans. In fact, I'm afraid the time has come ...
-[GEORGE] (GEORGE looks up at his mother's precious vase as MRS. BRILL comes into the parlor
-[GEORGE] to tidy up.)
+
+[STAGE] (GEORGE looks up at his mother's precious vase as MRS. BRILL comes into the parlor to tidy up.)
+
 [WINIFRED] Do you mean your mother's vase? Won't you miss it terribly?
-[GEORGE] Needs must, my dear. We always said we were saving it for a rainy day, and
-[GEORGE] tomorrow it looks set to pour.
+
+[GEORGE] Needs must, my dear. We always said we were saving it for a rainy day, and tomorrow it looks set to pour.
+
 [STAGE] (GEORGE climbs onto a chair and, gingerly, he picks up the vase.)
-[WINIFRED] George -do be careful.
-[WINIFRED] (GEORGE starts to climb down again when MRS. BRILL absentmindedly bangs into
-[WINIFRED] the chair amid her cleaning. The vase slips from George's hands and shatters on the
-[WINIFRED] floor. MRS. BRILL is aghast.)
+
+[WINIFRED] George - do be careful.
+
+[STAGE] (GEORGE starts to climb down again when MRS. BRILL absentmindedly bangs into the chair amid her cleaning. The vase slips from George's hands and shatters on the floor. MRS. BRILL is aghast.)
+
 [MRS. BRILL] Ah! The heirloom!
-[MRS. BRILL] (Pulling out a huge handkerchief MRS. BRILL starts to blub uncontrollably. This is
-[MRS. BRILL] not helping the stunned GEORGE.)
-[WINIFRED] Mrs. Brill/let's go to the kitchen, shall we? You'd better sit down ...
+
+[STAGE] (Pulling out a huge handkerchief MRS. BRILL starts to blub uncontrollably. This is not helping the stunned GEORGE.)
+
+[WINIFRED] Mrs. Brill, let's go to the kitchen, shall we? You'd better sit down ...
+
 [STAGE] (MARY POPPINS appears on the landing and sniffs the air.)
+
 [MARY POPPINS] Mrs. Brill, is that the dirmer cooking?
+
 [STAGE] (lifts her face from her handkerchief)
+
 [MRS. BRILL] Don't you start. I've opened all the windows-
+
 [MARY POPPINS] I was only going to say that it smells ... delicious!
+
 [STAGE] (MARY POPPINS heads up the stairs.)
+
 [MRS. BRILL] The whole world has gone upside-down!
+
 [STAGE] (MRS. BRILL exits with renewed anguish, followed by WINIFRED.)
-[MRS. BRILL] #:2 () -A /1;11111 H 11"; 0 r (' t7 /II.... (l~ L' P r i ~ c) / /\ 5 P (l (JIIIlIl of S II S 11 r (R (' II r i ~ c ) -107 -
-[MRS. BRILL] CClHgC, Bert
-[MRS. BRILL] (GEORGE is alone when he sees a smattering of shining stars among the broken pieces.
-[MRS. BRILL] He bends down to pick them up.)
+[STAGE] George, Bert
+[STAGE] (GEORGE is alone when he sees a smattering of shining stars among the broken pieces. He bends down to pick them up.)
 [GEORGE] Well, I never. So that's where I put them.
 [BERT] What are they?
 [STAGE] (To GEORGE's surprise, BERT has emerged from the shadows.)
-[GEORGE] Stars. Gingerbread stars I hid once from my nanny. I always knew I'd put them
-[GEORGE] somewhere no one would find them. Trouble was I couldn't find them either.
+[GEORGE] Stars. Gingerbread stars I hid once from my nanny. I always knew I'd put them somewhere no one would find them. Trouble was I couldn't find them either.
 [BERT] They're very bright.
 [GEORGE] Aren't they? Even after all this time.
 [BERT] Here, let me give you a hand.
 [STAGE] (BERT helps to pick up the pieces of the vase.)
-[GEORGE] I used to dream that when I grew up I'd learn everything there was to know about
-[GEORGE] the stars.
+[GEORGE] I used to dream that when I grew up I'd learn everything there was to know about the stars.
 [STAGE] (thoughtful pause)
 [GEORGE] Funny. I haven't thought about all that in years. I'm not usually sentimental.
 [BERT] S' good to look back sometimes.
@@ -2135,13 +2255,12 @@
 [GEORGE] The flame is snuffed aborning.
 [GEORGE] He's brought to rack and ruin in his prime!
 [BERT] Life's a rum go, Guv'nor, and that's the truth.
-[GEORGE] You know what I think? It's Mary Poppins! From the moment she stepped into the
-[GEORGE] house, things began to happen to me!
+[GEORGE] You know what I think? It's Mary Poppins! From the moment she stepped into the house, things began to happen to me!
 [~] [GEORGE] MY WORLD WAS CALM, WELL ORDERED, EXEMPLARY.
 [~] [GEORGE] THEN CAME THIS PERSON WITH CHAOS IN HER WAKE,
 [~] [GEORGE] AND NOW MY LIFE'S AMBITIONS GO WITH ONE FELL BLOW.
 [~] [GEORGE] IT'S QUITE A BITTER PILL TO TAKE.
-[GEORGE] It's that Pop pins woman! She's responsible for all this!
+[GEORGE] It's that Poppins woman! She's responsible for all this!
 [BERT] I know the very person. What's that thing she's always saying?
 [~] [BERT] A SPOONFUL OF SUGAR, THAT IS ALL IT TAKES.
 [~] [BERT] IT CHANGES BREAD AND WATER INTO TEA AND CAKES.
@@ -2153,247 +2272,225 @@
 [STAGE] (placing the vase pieces carefully in the rubbish bin)
 [~] [BERT] YOU'VE GOT TO GRIND, GRIND, GRIND AT THAT GRINDSTONE
 [~] [BERT] THOUGH CHILDHOOD SLIPS LIKE SAND THROUGH A SIEVE.
-[~] [BERT] AND ALL TOO SOON THEY'VE UP AND GROWN, -109 -
+[~] [BERT] AND ALL TOO SOON THEY'VE UP AND GROWN, 
 [~] [BERT] AND THEN THEY'VE FLOWN, AND IT'S TOO LATE FOR YOU TO GIVE ...
-[BERT] (The CHILDREN come out of the nursery and start downstairs. MARY POPPINS
-[BERT] watches remains behind on the stairs. GEORGE re-enters the parlor.)
+[STAGE] (The CHILDREN come out of the nursery and start downstairs. MARY POPPINS watches remains behind on the stairs. GEORGE re-enters the parlor.)
 [~] [BERT] JUST THAT SPOONFUL OF SUGAR TO 'ELP THE MEDICINE GO DOWN,
 [~] [BERT] THE MEDICINE GO DOWN, MEDICINE GO DOWN ...
 [STAGE] (holds out his hand to GEORGE)
 [BERT] Well, good luck, Guv'nor.
-[BERT] (For a moment, GEORGE is still and then, deliberately, he takes the sooty paw and
-[BERT] shakes it firmly.)
+[STAGE] (For a moment, GEORGE is still and then, deliberately, he takes the sooty paw and shakes it firmly.)
 [GEORGE] Thank you, Bert. And good luck to you, too.
-[GEORGE] (BERT pauses in the hall only to tum and look up at MARY POPPINS. She answers
-[GEORGE] his look with a nod and he leaves. The CHILDREN approach their father cautiously.
-[GEORGE] As they speak, MARY POPPINS comes down silently, carrying something.)
+[STAGE] (BERT pauses in the hall only to tum and look up at MARY POPPINS. She answers his look with a nod and he leaves. The CHILDREN approach their father cautiously. As they speak, MARY POPPINS comes down silently, carrying something.)
 [JANE] Father ...
 [GEORGE] What is it?
-[MICHAEL] We've corne to say goodnight.
+[MICHAEL] We've come to say goodnight.
 [GEORGE] Ah. Yes. Goodnight.
 [STAGE] (But GEORGE is less severe than usual. JANE approaches.)
 [JANE] Daddy, do you remember when we carne to the bank?
 [GEORGE] Yes.
-[JANE] Welt we were each given a sixpence, and were told to spend them carefully.
+[JANE] Well we were each given a sixpence, and were told to spend them carefully.
 [GEORGE] Excellent advice. That's exactly what you should do. What did you buy with them?
 [JANE] Nothing yet. We kept them. And now we've decided to give them to you.
 [GEORGE] I suppose Mary Poppins put you up to this.
-[JANE] No. She hasn't said a word about it, but we know it's been difficult for you lately
-[JANE] and we haven't really been much help.
+[JANE] No. She hasn't said a word about it, but we know it's been difficult for you lately and we haven't really been much help.
 [MICHAEL] So we thought a bit of extra cash might loosen things up a little.
 [JANE] It is a whole shilling.
 [GEORGE] Thank you.
-[GEORGE] (GEORGE cannot speak for fear of crying. He nods briskly and takes the coins in
-[GEORGE] silence.)
-[JANE] Goodnight, Daddy. We do love you, you knOw.
+[STAGE] (GEORGE cannot speak for fear of crying. He nods briskly and takes the coins in silence.)
+[JANE] Goodnight, Daddy. We do love you, you know.
 [STAGE] (JANE reaches up and kisses GEORGE.)
 [GEORGE] Jane. Do you remember you once asked me who Neleus's father was?
 [JANE] Yes.
 [GEORGE] It was Poseidon, King of the Sea. Goodnight.
-[SONG] #20/\ -King lJ{ tI/(, SCII orchcstr"
-[STAGE] (The CHILDREN head up to the nursery, passing MARY POPPINS. GEORGE goes
-[STAGE] into his study. MARY POPPINS swiftly places the object -Michael's broken makeshift
-[STAGE] kite -on the floor of the hall, then sails upstairs. GEORGE emerges from his study and
-[STAGE] sees the kite. Thoughtfully, he picks it up.)
+[SONG] #20 - King of the Sea orchestra
+[STAGE] (The CHILDREN head up to the nursery, passing MARY POPPINS. GEORGE goes into his study. MARY POPPINS swiftly places the object -Michael's broken makeshift kite -on the floor of the hall, then sails upstairs. GEORGE emerges from his study and sees the kite. Thoughtfully, he picks it up.)
 [HEADER] SCENE 10: ANYTHING CAN HAPPEN, PART 1 -Nursery
 [STAGE] (WINIFRED tucks the CHILDREN into bed.)
 [JANE] Mummy? Daddy's really worried, isn't he?
-[WINIFRED] Yes, he is. But always remember that he loves you very much. And that's far more
-[WINIFRED] important than jobs or houses or anything else.
+[WINIFRED] Yes, he is. But always remember that he loves you very much. And that's far more important than jobs or houses or anything else.
 [MICHAEL] Are you going to the bank with him?
-[WINIFRED -111 -] I wish he'd let me. But he won't. If only there was someone to speak up for him. To
-[WINIFRED -111 -] take his part. To show them what he's really like inside.
+[WINIFRED] I wish he'd let me. But he won't. If only there was someone to speak up for him. To take his part. To show them what he's really like inside.
 [JANE] Why can't he do that for himself?
 [WINIFRED] Because he's a man. And a very proud one.
 [MICHAEL] Then you must go!
-[WINIFRED] 1'd like to go, but I'm afraid it just isn't possible.
+[WINIFRED] I'd like to go, but I'm afraid it just isn't possible.
 [MICHAEL] Why?
 [STAGE] (smiles)
-[WINIFRED] Because 1'm a woman.
+
+[WINIFRED] Because I'm a woman.
+
 [STAGE] (There's a pause. MARY POPPINS enters.)
-[JANE] Mary Pop pins says anything is possible if we can only get out of our own way.
-[SONG] #21 -AllytlIillg (1111 Hnppcll (Part 1) i\lcHY POF'pins, J<l])(" i'vlich<ll'I,
-[STAGE] Winifred, [)ird WUmclll, Ollclrd of DIrectors
+
+[JANE] Mary Poppins says anything is possible if we can only get out of our own way.
+
+[SONG] #21 - Anything Can Happen (Part 1)
+
+[STAGE] Mary Poppins, Jane, Michael, Winifred, Bird Woman, Board of Directors
+
 [WINIFRED] Do you really believe that, Mary Poppins?
-[WINIFRED] -112 -
-[WINIFRED] I wonder ... MARY POPPINS
+
 [~] [MARY POPPINS] ANYTHING CAN HAPPEN IF YOU LET IT.
+
 [~] [MARY POPPINS] SOMETIMES THINGS ARE DIFFICULT, BUT YOU CAN BET IT
+
 [~] [MARY POPPINS] DOESN'T HAVE TO BE SO.
+
+[~] [JANE] CHANGE CAN BE MADE
+
 [~] [MICHAEL] YOU CAN MOVE A MOUNTAIN IF YOU USE A LARGER SPADE.
+
 [~] [MARY POPPINS] ANYTHING CAN HAPPEN -IT'S A MARVEL.
+
 [~] [MICHAEL] YOU CAN BE A BUTTERFLY
+
+[~] [JANE] OR JUST STAY LARVAL.
+
 [~] [JANE, MICHAEL] STRETCH YOUR MIND BEYOND FANTASTIC
+
 [~] [JANE, MICHAEL] DREAMS ARE MADE OF STRONG ELASTIC
+
 [~] [MARY POPPINS] TAKE SOME SOUND ADVICE, AND DON'T FORGET IT.
+
 [~] [MARY POPPINS, JANE, MICHAEL] ANYTHING CAN HAPPEN IF YOU LET IT.
+
+[WINIFRED] I wonder...
+
 [~] [WINIFRED, JANE, MICHAEL] ANYTHING CAN HAPPEN IF YOU LET IT.
+
 [~] [WINIFRED] YOU WON'T KNOW A CHALLENGE UNTIL YOU'VE MET IT.
+
 [~] [MICHAEL] NO-ONE DOES IT FOR YOU,
-[~] [NO-ONE BUT YOURSELF.] VACILLATING VIOLETS GET LEFT UP ON THE SHELF.
-[~] [NO-ONE BUT YOURSELF.] ANYTHING CAN HAPPEN, JUST IMAGINE!
+
+[~] [WINIFRED] NO-ONE BUT YOURSELF
+
+[~] [WINIFRED]VACILLATING VIOLETS GET LEFT UP ON THE SHELF.
+
+[~] [WINIFRED] ANYTHING CAN HAPPEN, JUST IMAGINE!
+
 [~] [MARY POPPINS] THAT SHOULD BE MY EPITAPH:
+
 [~] [MARY POPPINS] I WEAR THE BADGE IN HONOR OF THIS WORLD 'S FREE THINKERS ,
+
 [~] [WINIFRED] THOSE WHO SEE BEYOND THEIR BLINKERS.
-[~] ['TIL YOU SET IT.] JANE, MICHAEL, WINIFRED, MARY POPPINS
-[~] ['TIL YOU SET IT.] ANYTHING CAN HAPPEN IF YOU LET IT. -113 -
-['TIL YOU SET IT.] (WINIFRED exits. MARY POPPINS looks out of the nursery, clearly with something
-['TIL YOU SET IT.] in mind.)
+
+[~] [JANE, MICHAEL] JELLY ISN'T JELLY
+
+[~] [JANE, MICHAEL, WINIFRED] 'TIL YOU SET IT.
+
+[~] [JANE, MICHAEL, WINIFRED, MARY POPPINS] ANYTHING CAN HAPPEN IF YOU LET IT.
+
+[STAGE] (WINIFRED exits. MARY POPPINS looks out of the nursery, clearly with something in mind.)
+
 [~] [MARY POPPINS] IF YOU REACH FOR THE STARS,
+
 [~] [MARY POPPINS] ALL YOU GET ARE THE STARS,
+
 [~] [MARY POPPINS] BUT WE'VE FOUND A WHOLE NEW SPIN.
+
 [~] [MARY POPPINS] IF YOU REACH FOR THE HEAVENS,
+
 [~] [MARY POPPINS] YOU GET THE STARS THROWN IN.
-[MARY POPPINS] (MARY POPPINS takes the CHILDREN's hands, and together they step out of the
-[MARY POPPINS] nursery and fly over the rooftops of London.)
-[HEADER] SCENE 11: ANYTHING CAN HAPPEN, PART 2 -
-[STAGE] Cathedral Steps, Bank
-[STAGE] (On a street near the steps of St. Paul's Cathdral, MARY POPPINS and the
-[STAGE] CHILDREN become spectators, unseen by the others. Snow starts to fall. The BIRD
-[STAGE] WOMAN scatters corn for the pigeons. GEORGE enters and walks until, as a
-[STAGE] background to his troubled thoughts, he sees her.)
+
+[STAGE] (MARY POPPINS takes the CHILDREN's hands, and together they step out of the nursery and fly over the rooftops of London.)
+
+[HEADER] SCENE 11: ANYTHING CAN HAPPEN, PART 2 - Cathedral Steps, Bank
+
+[STAGE] (On a street near the steps of St. Paul's Cathdral, MARY POPPINS and the CHILDREN become spectators, unseen by the others. Snow starts to fall. The BIRD WOMAN scatters corn for the pigeons. GEORGE enters and walks until, as a background to his troubled thoughts, he sees her.)
+
 [~] [BIRD WOMAN] FEED THE BIRDS, TUPPENCE A BAG,
+
 [~] [BIRD WOMAN] TUPPENCE, TUPPENCE, TUPPENCE A BAG.
+
 [STAGE] (GEORGE passes the BIRD WOMAN, then he hesitates and retraces his steps.)
+
 [BIRD WOMAN] Feed the birds, sir? Only tuppence a bag.
+
 [STAGE] (pulls out two coins and puts them in her hand)
+
 [GEORGE] I would take it as a great favor if you would kindly feed them for me.
+
 [~] [BIRD WOMAN] TUPPENCE, TUPPENCE, TUPPENCE A BAG.
-[BIRD WOMAN] (Leaving the BIRD WOMAN staring at the amount he has given, GEORGE walks
-[BIRD WOMAN] towards the bank. For all his bravado, he is nervous now that the time has come.
-[BIRD WOMAN] He shines his shoes on the backs of his trouser legs and enters the bank. The entire
-[BIRD WOMAN] BOARD OF DIRECTORS is waiting inside the bank.)
-[DOORMEN] Mr. Banks is here.
-[CHAIRMAN] Come in, Banks.
-[JOBS ON THE LINE.] (GEORGE enters. He stands there, alone. MARY POPPINS and the CHILDREN
-[JOBS ON THE LINE.] observe the action, unseen.)
-[CHAIRMAN] Welt Banks, how did it happen? You turned down a scheme that was bound to
-[CHAIRMAN] make millions, and we want to know why.
+
+[STAGE] (Leaving the BIRD WOMAN staring at the amount he has given, GEORGE walks towards the bank. For all his bravado, he is nervous now that the time has come. He shines his shoes on the backs of his trouser legs and enters the bank. The entire BOARD OF DIRECTORS is waiting inside the bank.)
+
+[BOARD OF DIRECTORS] PRECISION AND ORDER, PAYING ONES DEBTS, RISKING OUR INVESTMENTS, HEDGING OUR BETS. Mr. Banks is here. Come in, Banks. TRADING IN FUTURES, JOBS ON THE LINE.
+[STAGE] (GEORGE enters. He stands there, alone. MARY POPPINS and the CHILDREN observe the action, unseen.)
+[CHAIRMAN] Welt Banks, how did it happen? You turned down a scheme that was bound to make millions, and we want to know why.
 [STAGE] (The assembled BANKERS wait. Firmly, GEORGE starts to speak.)
-[GEORGE -115 -] Then I'll tell you. I refused Mr. Von Hussler because his scheme was hollow. It had
-[GEORGE -115 -] no product, it had no substance, it had no meaning outside the walls of a bank! Oh
-[GEORGE -115 -] yes, he told me about assets and profits and growth, but there wasn't a word about
-[GEORGE -115 -] people! I know that if a man puts any value on real life, then as far as you're
-[GEORGE -115 -] concerned he's a wash-out, but I'm afraid I do value it, gentlemen. In short, George
-[GEORGE -115 -] Banks, Esquire, has rediscovered the human race! I apologize for ruining the bank.
-[GEORGE -115 -] But I do not apologize for understanding that there are more important things in life
-[GEORGE -115 -] than making money!
-[GEORGE -115 -] (The silence that greets this is not one of indignation but rather of bewilderment.
-[GEORGE -115 -] At last the CHAIRMAN speaks.)
-[CHAIRMAN] Ruining the bank? Ruining the bank? Ruining the bank? My dear chap, what are
-[CHAIRMAN] you talking about? You've saved our bacon! Haven't you heard? Von Hussler's
-[CHAIRMAN] scheme has ruined our rival! You've kept us out of the nastiest scandal since records
-[CHAIRMAN] began! We don't want your apologiesl We're offering ours!
-[GEORGE] Ohmy word.
-[CHAIRMAN] And another thing. Do you remember giving a loan to a fellow called Northbrook?
-[CHAIRMAN] Well, he's repaying it and opening two new factories. With the percentage you
-[CHAIRMAN] negotiated, we look set to make a fortune!
-[GEORGE] Ohmy word!
-[CHAIRMAN] Well, that's just it. We very much hope you might tell us how you did it. Just give
-[CHAIRMAN] us the word. It'll be quite safe with us.
+[GEORGE] Then I'll tell you. I refused Mr. Von Hussler because his scheme was hollow. It had no product, it had no substance, it had no meaning outside the walls of a bank! Oh yes, he told me about assets and profits and growth, but there wasn't a word about people! I know that if a man puts any value on real life, then as far as you're concerned he's a wash-out, but I'm afraid I do value it, gentlemen. In short, George Banks, Esquire, has rediscovered the human race! I apologize for ruining the bank. But I do not apologize for understanding that there are more important things in life than making money!
+[STAGE] (The silence that greets this is not one of indignation but rather of bewilderment. At last the CHAIRMAN speaks.)
+[CHAIRMAN] Ruining the bank? Ruining the bank? Ruining the bank? My dear chap, what are you talking about? You've saved our bacon! Haven't you heard? Von Hussler's scheme has ruined our rival! You've kept us out of the nastiest scandal since records began! We don't want your apologies We're offering ours!
+[GEORGE] Oh my word.
+[CHAIRMAN] And another thing. Do you remember giving a loan to a fellow called Northbrook? Well, he's repaying it and opening two new factories. With the percentage you negotiated, we look set to make a fortune!
+[GEORGE] Oh my word!
+[CHAIRMAN] Well, that's just it. We very much hope you might tell us how you did it. Just give us the word. It'll be quite safe with us.
 [STAGE] (immobile for a second, but only for a second)
-[GEORGE] Give you the word? Give you the word? I'll give you the word all right:
+[GEORGE] Give you the word? Give you the word? I'll give you the word all right: SUPERCALIFRAGILISTICEXPIALIDOCIOUS
 [STAGE] (GEORGE suddenly starts to laugh and spin and crash and shout.)
-[-116 - MARY POPPINS] -- ---
-[-116 - MARY POPPINS] # 2 1 A -G i 'i' L' Lb t II L' W 0 r d G e 0 r g l'
-[STAGE] (GEORGE)
-[~] [-116 - MARY POPPINS] EVEN THOUGH THE SOUND OF IT IS SOMETHING QUITE ATROCIOUS,
-[~] [-116 - MARY POPPINS] IF YOU SAY IT LOUD ENOUGH YOU'LL ALWAYS SOUND PRECOCIOUS .
-[-116 - MARY POPPINS] SUPERCALIFRAGILISTICEXPIALIDOCIOUSl
+[~] [GEORGE] EVEN THOUGH THE SOUND OF IT IS SOMETHING QUITE ATROCIOUS, IF YOU SAY IT LOUD ENOUGH YOU'LL ALWAYS SOUND PRECOCIOUS. SUPERCALIFRAGILISTICEXPIALIDOCIOUS
 [STAGE] (kneels at the CHAIRMAN's feet)
-[-116 - MARY POPPINS] Oh, sir! Thank you!
+[MARY POPPINS] Oh, sir! Thank you!
 [CHAIRMAN] Now Banks-
-[CHAIRMAN] (The door bursts open. WINIFRED hurtles in, running to GEORGE and guarding
-[CHAIRMAN] him with her body like a lioness.)
+[STAGE] (The door bursts open. WINIFRED hurtles in, running to GEORGE and guarding him with her body like a lioness.)
 [WINIFRED] Forgive him. It's not his fault. It's all because of his nanny, Miss Andrew!
 [STAGE] (starts up, a look of sheer horror on his face)
 [CHAIRMAN] The Holy Terror! She taught me everything I know!
 [GEORGE] Then now's your chance to forget it!
 [WINIFRED] That's right! And if you want a fight about it, then you've come to the right woman!
 [STAGE] (Placing herself in front of GEORGE, WINIFRED squares up and raises her dukes.)
-[GEORGE] It's all right, darling! It's all right! I haven't lost money at all! I've made the bank a
-[GEORGE] fortune!
+[GEORGE] It's all right, darling! It's all right! I haven't lost money at all! I've made the bank a fortune!
 [WINIFRED] Really?
-[WINIFRED] (GEORGE takes WINIFRED in his arms but can't say more before they are mobbed by
-[WINIFRED] the cheering BANKERS. The CHAIRMAN claps his hands.)
+[STAGE] (GEORGE takes WINIFRED in his arms but can't say more before they are mobbed by the cheering BANKERS. The CHAIRMAN claps his hands.)
 [CHAIRMAN] Gentlemen.
 [STAGE] (to WINIFRED , gesturing toward the door)
 [CHAIRMAN] Madam, if you please, we still have some business to conduct.
-[MARY POPPINS] (WINIFRED stands firmly in place. The CHAIRMAN concedes, not that he has a
-[MARY POPPINS] choice in the matter.)
-[STAGE] (CHAIRMAN)
-[MARY POPPINS] Ah, well, Banks -George -by way of recompense, we'd like to offer you the job of
-[MARY POPPINS] senior manager with a salary at double-
+[STAGE] (WINIFRED stands firmly in place. The CHAIRMAN concedes, not that he has a choice in the matter.)
+[CHAIRMAN] Ah, well, Banks -George -by way of recompense, we'd like to offer you the job of senior manager with a salary at double-
 [WINIFRED] Exactly how much has he made for you?
 [STAGE] (knows he has been admonished)
-[WINIFRED] Triple-
+[CHAIRMAN] Triple-
 [STAGE] (WINIFRED coughs pointedly.)
-[WINIFRED] Quadruple your present rate.
-[WINIFRED] (GEORGE stands agape.) CHAIRMAN
+[CHAIRMAN] Quadruple your present rate.
+[STAGE] (GEORGE stands agape.)
 [WINIFRED] Close your mouth, George -we are not a codfish.
 [CHAIRMAN] Well?
 [STAGE] (looks to WINIFRED for approval)
 [GEORGE] I accept, but you must understand one thing: from now on, my family comes first.
 [STAGE] (looks right and left for approval)
-[GEORGE] Agreed?
+[CHAIRMAN] Agreed?
 [STAGE] (nodding)
-[GEORGE] Agreed! CHAIRMAN
-[BANKERS -11 7 -] (Surrounded by a gaggle of ecstatic BANKERS, GEORGE and WINIFRED walk off
-[BANKERS -11 7 -] together into their new life. MARY POPPINS and the CHILDREN follow as magical
-[BANKERS -11 7 -] observers.)
-[HEADER] SCENE 12: ANYTHING CAN HAPPEN, PART 3 -Park, Heavens
+[BANKERS] Agreed!
+[STAGE] (Surrounded by a gaggle of ecstatic BANKERS, GEORGE and WINIFRED walk off together into their new life. MARY POPPINS and the CHILDREN follow as magical observers.)
+[HEADER] SCENE 12: ANYTHING CAN HAPPEN, PART 3 - Park, Heavens
 [GEORGE] Winifred, I'm afraid I've underestimated you. How can you forgive me?
 [WINIFRED] How can you ask?
-[GEORGE] It was selfish of me to keep you off the stage. You'll want to go back, and I won't
-[GEORGE] mind if you do.
-[WINIFRED] No, I loved it, but I've found a role I rather prefer, and it's going to keep me
-[WINIFRED] extremely busy for a very long time ...
-[WINIFRED] (MARY POPPINS and the CHILDREN watch 1NINIFRED and GEORGE walk off
-[WINIFRED] together. BERT appears.)
-[SONG] #22 -Allythill?!, Call Happen (Part 2) Mary Poppins, Bert, Jane,
-[~] [WILL SOON SEEM CERTAIN.] THOUGH AT FIRST IT MAY SOUND CLOWNISH ,
-[~] [WILL SOON SEEM CERTAIN.] SEE THE WORLD MORE UPSIDE-DOWNISH .
-[~] [WILL SOON SEEM CERTAIN.] TURN IT ON ITS HEAD THEN PIROUETTE IT.
+[GEORGE] It was selfish of me to keep you off the stage. You'll want to go back, and I won't mind if you do.
+[WINIFRED] No, I loved it, but I've found a role I rather prefer, and it's going to keep me extremely busy for a very long time ...
+[STAGE] (MARY POPPINS and the CHILDREN watch WNINIFRED and GEORGE walk off together. BERT appears.)
+[SONG] #22 -Anything, Can Happen (Part 2) Mary Poppins, Bert, Jane, Michael, Ensemble
+[~] [MARY POPPINS] ANYTHING CAN HAPPEN, RAISE THE CURTAIN THINGS YOU THOUGHT IMPOSSIBLE
+[~] [MARY POPPINS, BERT] WILL SOON SEEM CERTAIN. THOUGH AT FIRST IT MAY SOUND CLOWNISH, SEE THE WORLD MORE UPSIDE-DOWNISH. TURN IT ON ITS HEAD THEN PIROUETTE IT.
 [~] [BERT] ANYTHING CAN HAPPEN IF YOU LET IT.
-[~] [MARY POPPINS] IF YOU REACH FOR THE STARS,
-[~] [MARY POPPINS] ALL YOU'LL GET ARE THE STARS,
-[~] [MARY POPPINS] BUT WE'VE FOUND A WHOLE NEW SPIN.
-[~] [MARY POPPINS] IF YOU REACH FOR THE HEAVENS ,
-[~] [MARY POPPINS] YOU GET THE STARS THROWN IN .. ,
-[~] [ENSEM BLE] YOU GET THE STARS THROWN IN.
-[ENSEM BLE] (YOU GET THE STARS THROWN IN.) Michael, Ensemble
-[STAGE] (ENSEMBLE)
+[~] [MARY POPPINS] IF YOU REACH FOR THE STARS, ALL YOU'LL GET ARE THE STARS, BUT WE'VE FOUND A WHOLE NEW SPIN. IF YOU REACH FOR THE HEAVENS , YOU GET THE STARS THROWN IN ...
+[~] [ENSEMBLE] YOU GET THE STARS THROWN IN. (YOU GET THE STARS THROWN IN.)
+[ENSEMBLE] AH...
 [JANE] There are the stars!
 [MICHAEL] I want the constellations, too!
 [MARY POPPINS] Do you indeed? I wonder you don't ask for the moon as well.
-[MARY POPPINS] (JANE and MICHAEL start their magical journey into the night sky. Other
-[MARY POPPINS] CHARACTERS enter and join in the tour of the stars.)
-[ALL] 00 .. .
-[~] [AH .. .] IF YOU REACH FOR THE STARS,
-[~] [AH .. .] ALL YOU GET ARE THE STARS,
-[~] [AH .. .] BUT WE'VE FOUND A WHOLE NEW SPIN.
-[~] [AH .. .] IF YOU REACH FOR THE HEAVENS,
-[~] [AH .. .] YOU GET THE STARS THROWN IN.
-[~] [AH .. .] ANYTHING CAN HAPPEN IF YOU LET IT.
-[~] [AH .. .] LIFE IS OUT THERE WAITING, SO GO AND GET IT.
-[~] [AH .. .] GRAB IT BY THE COLLAR.
-[~] [AH .. .] SEIZE IT BY THE SCRUFF. -119 -
-[~] [AH .. .] ONCE YOU'VE STARTED LIVING LIFE, YOU JUST CAN'T GET ENOUGH.
-[~] [AH .. .] (ANYTHING CAN HAPPEN) ANYTHING CAN HAPPEN, IT'S OFFICIAL.
-[~] [AH .. .] (ANYTHING CAN HAPPEN) YOU CAN CHOOSE THE SUPER
-[~] [OR THE SUPERFICIAL.] SALLY FORTH THE WAY WE'RE STEERING.
-[~] [OBSTACLES START DISAPPEARING.] GO AND CHASE YOUR DREAMS, YOU WON'T REGRET IT.
-[~] [OBSTACLES START DISAPPEARING.] ANYTHING CAN HAPPEN (ANYTHING CAN HAPPEN),
+[STAGE] (JANE and MICHAEL start their magical journey into the night sky. Other CHARACTERS enter and join in the tour of the stars.)
+[~] [ALL] OO ... AH ... IF YOU REACH FOR THE STARS, ALL YOU GET ARE THE STARS, BUT WE'VE FOUND A WHOLE NEW SPIN. IF YOU REACH FOR THE HEAVENS, YOU GET THE STARS THROWN IN.
+[~] [ALL] ANYTHING CAN HAPPEN IF YOU LET IT. LIFE IS OUT THERE WAITING, SO GO AND GET IT. GRAB IT BY THE COLLAR. SEIZE IT BY THE SCRUFF.
+[~] [ALL] ONCE YOU'VE STARTED LIVING LIFE, YOU JUST CAN'T GET ENOUGH. (ANYTHING CAN HAPPEN) ANYTHING CAN HAPPEN, IT'S OFFICIAL. (ANYTHING CAN HAPPEN) YOU CAN CHOOSE THE SUPER OR THE SUPERFICIAL.
+[~] [ALL] SALLY FORTH THE WAY WE'RE STEERING. OBSTACLES START DISAPPEARING. GO AND CHASE YOUR DREAMS, YOU WON'T REGRET IT. ANYTHING CAN HAPPEN (ANYTHING CAN HAPPEN),
+[~] [ALL] ANYTHING CAN HAPPEN (ANYTHING),
+[~] [MARY POPPINS, JANE, MICHAEL] ANYTHING CAN HAPPEN
 [SONG] #22A -The Best Yet orchestra
 [HEADER] SCENE 13: I LOVE YOU, MARY POPPINS -Park
-[STAGE] (The stars retreat as the park is revealed under ths night sky. The statue of NELEUS is
-[STAGE] now reunited with the statue of his father, Poseidon. A few STRAGGLERS remain.
-[STAGE] MARY POPPINS , MICHAEL, and JANE walk downstage as the park gates come into
-[STAGE] mew. We are back where our Jolly Holiday started, with BERT finishing a drawing.)
+[STAGE] (The stars retreat as the park is revealed under ths night sky. The statue of NELEUS is now reunited with the statue of his father, Poseidon. A few STRAGGLERS remain. MARY POPPINS , MICHAEL, and JANE walk downstage as the park gates come into view. We are back where our Jolly Holiday started, with BERT finishing a drawing.)
 [JANE] Mary Poppins, Neleus and Poseidon will live happily ever after, won't they?
 [MARY POPPINS] Of course.
-[MICHAEL] Oh, Mary Poppins, that was the best yet! To be up in the heavens ... do you think
-[MICHAEL] we'll ever go back there?
+[MICHAEL] Oh, Mary Poppins, that was the best yet! To be up in the heavens ... do you think we'll ever go back there?
 [MARY POPPINS] Yes. Someday.
 [JANE] Really? Will it be soon?
 [STAGE] (looks at them for a moment before shaking her head)
@@ -2405,20 +2502,17 @@
 [MICHAEL] But... it's your telescope
 [MARY POPPINS] So it is. Keep it if you like. It's a present.
 [STAGE] (questioningly)
-[MARY POPPINS] Thank you. MICHAEL
-[MARY POPPINS] Now, run along in. It's getting cold.
+[MARY POPPINS] Thank you. MICHAEL Now, run along in. It's getting cold.
 [STAGE] (JANE leads the way off when MICHAEL stops and turns.)
 [MICHAEL] I love you, Mary Poppins.
 [STAGE] (gently)
 [MARY POPPINS] You are a fine boy Michael Banks, and one day you will be a fine man.
 [MICHAEL] Oh, Mary Poppins, it makes me so anxious when you talk like that.
 [MARY POPPINS] Like what?
-[MICHAEL] All gentle and kind and not a bit like you. Be cross, Mary Poppins! Do be cross
-[MICHAEL] again!
+[MICHAEL] All gentle and kind and not a bit like you. Be cross, Mary Poppins! Do be cross again!
 [MARY POPPINS] Is that the thanks I get for the trouble I've taken!
-[MICHAEL] That's better! -121 -
-[MICHAEL] (And with a bright smile MICHAEL runs after his sister. MARY POPPINS walks over
-[MICHAEL] to BERT and admires his painting of flowers.)
+[MICHAEL] That's better!
+[STAGE] (And with a bright smile MICHAEL runs after his sister. MARY POPPINS walks over to BERT and admires his painting of flowers.)
 [MARY POPPINS] That's dainty, Bert.
 [BERT] They're yours, Mary. I painted them ... for you.
 [STAGE] (perhaps he magically hands her real flowers, then ... )
@@ -2426,21 +2520,14 @@
 [MARY POPPINS] Yes, Bert.
 [BERT] Well, good bye then, Mary.
 [MARY POPPINS] Goodbye, Bert. Look after yourself.
-[SONG] #23 -!\ Spoonfll! of SligOI' (RL'pri~c) M'Hy Poppins
-[STAGE] (MARY POPPINS gives BERT a gentle kiss on the cheek, after which he wistfully
-[STAGE] turns away and leaves. MARY POPPINS walks back to No. 17.)
+[SONG] #23 A Spoonful of Sugar (Reprise) Mary Poppins
+[STAGE] (MARY POPPINS gives BERT a gentle kiss on the cheek, after which he wistfully turns away and leaves. MARY POPPINS walks back to No. 17.)
 [HEADER] SCENE 14: FAMILY LIFE -Nursery
-[STAGE] (MAR Y POPPINS appears in the nursery.)
-[~] [MARY POPPINS] WITH EVERY JOB WHEN IT'S COMPLETE,
-[~] [MARY POPPINS] THERE IS A SENSE OF BITTER-SWEET,
-[~] [MARY POPPINS] THAT MOMENT WHEN YOU KNOW THE TASK IS DONE.
-[~] [MARY POPPINS] THOUGH IN YOUR HEART YOU'D LIKE TO STAY
-[~] [MARY POPPINS] TO HELP THINGS ON THEIR WAY,
-[~] [MARY POPPINS] YOU'VE ALWAYS KNOWN THEY MUST DO IT ALONE.
+[STAGE] (MARY POPPINS appears in the nursery.)
+[~] [MARY POPPINS] WITH EVERY JOB WHEN IT'S COMPLETE, THERE IS A SENSE OF BITTER-SWEET, THAT MOMENT WHEN YOU KNOW THE TASK IS DONE. THOUGH IN YOUR HEART YOU'D LIKE TO STAY
+[~] [MARY POPPINS] TO HELP THINGS ON THEIR WAY, YOU'VE ALWAYS KNOWN THEY MUST DO IT ALONE.
 [MARY POPPINS] There, practically perfect, and I hope it remains so.
-[MARY POPPINS] (MARY POPPINS takes something from her pocket and places it on the floor. She
-[MARY POPPINS] picks up her umbrella and carpet bag and magically exits the nursery, taking one last
-[MARY POPPINS] look towards the room as the CHILDREN enter from the stairs.)
+[STAGE] (MARY POPPINS takes something from her pocket and places it on the floor. She picks up her umbrella and carpet bag and magically exits the nursery, taking one last look towards the room as the CHILDREN enter from the stairs.)
 [MICHAEL] What's happened? Something's changed. The bed's gone.
 [STAGE] (An object on the floor attracts JANE's attention. She stoops and picks it up.)
 [JANE] Look! It's Mary Poppins's locket. Oh, the chain's broken.
@@ -2462,48 +2549,37 @@
 [MICHAEL] Oh, Daddy!
 [STAGE] (MICHAEL hugs GEORGE.)
 [STAGE] (to GEORGE)
-[JANE] Mary Poppins won't be comillg back. She's gone forever.
+[JANE] Mary Poppins won't be coming back. She's gone forever.
 [WINIFRED] My dear, how could you possibly know such a thing?
-[JANE] Because we don't need her ... not anymore. And other families will. Won't they,
-[JANE] ~dd~ -
+[JANE] Because we don't need her ... not anymore. And other families will. Won't they, Daddy?
 [STAGE] (smiles and gives JANE a kiss)
 [JANE] They will. GEORGE
-[WINIFRED] I wonder if she's right, George, and we really could do without a nanny from now
-[WINIFRED] on. Vv'hat do you think?
+[WINIFRED] I wonder if she's right, George, and we really could do without a nanny from now on. What do you think?
 [GEORGE] I think you'd better come and dance with me!
 [WINIFRED] George, this is serious.
-[WINIFRED] (GEORGE takes WINIFRED by the hand, and they dance. GEORGE spots something
-[WINIFRED] out the window.) -123 -
+[STAGE] (GEORGE takes WINIFRED by the hand, and they dance. GEORGE spots something out the window.) -123 -
 [GEORGE] Look! Wasn't that a shooting star?
 [MICHAEL] You can borrow my telescope.
-[MICHAEL] (The BANKSES move out of the nursery and stand on the parapet, the whole family
-[MICHAEL] united for the first time.)
+[STAGE] (The BANKSES move out of the nursery and stand on the parapet, the whole family united for the first time.)
 [GEORGE] I was right. Wish on it, children!
-[GEORGE] (WINIFRED closes her eyes and wishes as GEORGE kisses her gently and
-[GEORGE] purposefully.)
+[STAGE] (WINIFRED closes her eyes and wishes as GEORGE kisses her gently and purposefully.)
 [GEORGE] My dearest love.
 [STAGE] (JANE and MICHAEL keep their eyes fixed on a shooting star.)
 [JANE] We won't forget you, Mary Poppins.
 [MICHAEL] We'll never forget...
-[MICHAEL] (MARY POPPINS flies away. GEORGE BANKS and his FAMILY laugh together for
-[MICHAEL] the first time in ages.)
+[STAGE] (MARY POPPINS flies away. GEORGE BANKS and his FAMILY laugh together for the first time in ages.)
 [STAGE] (END OF PLAY.)
-[MICHAEL] #:24 -HOll'~ CompC1n~
-[~] [ALL] IF YOU REACH FOR THE STARS,
-[~] [ALL] ALL YOU GET ARE THE STARS,
-[~] [ALL] BUT WE'VE FOUND A WHOLE NEW SPIN.
-[~] [ALL] IF YOU REACH FOR THE HEAVENS,
-[~] [ALL] YOU GET THE STARS THROWN IN.
-[~] [ALL] (ANYTHING CAN HAPPEN) ANYTHING CAN HAPPEN, IT'S A MARVEL.
-[~] [ALL] (ANYTHING CAN HAPPEN) YOU CAN BE A BUTTERFLY
-[~] [OR JUST STAY LARVAL.] STRETCH YOUR MIND BEYOND FANTASTIC.
-[~] [OR JUST STAY LARVAL.] DREAMS ARE MADE OF STRONG ELASTIC.
-[~] [OR JUST STAY LARVAL.] GO AND CHASE YOUR DREAMS, YOU WON'T REGRET IT.
-[OR JUST STAY LARVAL.] Here we go! MARY POPPINS
+[~] [ALL] IF YOU REACH FOR THE STARS, ALL YOU GET ARE THE STARS, BUT WE'VE FOUND A WHOLE NEW SPIN. IF YOU REACH FOR THE HEAVENS, YOU GET THE STARS THROWN IN.
+[~] [ALL] (ANYTHING CAN HAPPEN) ANYTHING CAN HAPPEN, IT'S A MARVEL. (ANYTHING CAN HAPPEN) YOU CAN BE A BUTTERFLY
+[ALL] OR JUST STAY LARVAL
+[~] [ALL] STRETCH YOUR MIND BEYOND FANTASTIC. DREAMS ARE MADE OF STRONG ELASTIC. GO AND CHASE YOUR DREAMS, YOU WON'T REGRET IT.
 [STAGE] (ALL)
-[~] [OR JUST STAY LARVAL.] ANYTHING CAN HAPPEN (ANYTHING CAN HAPPEN),
-[~] [SUPERCALIFRAGILISTICEXPIALIDOCIOUS.] S-U-P-E-R (S-U-P-E-R), C-A-L-I-F (C-A-L-I-F), R-A-G-I-L (R-A-G-I-L),
-[~] [SUPERCALIFRAGILISTICEXPIALIDOCIOUS. -125 -] EVEN THOUGH THE SOUND OF IT IS SOMETHING QUITE ATROCIOUS,
-[~] [SUPERCALIFRAGILISTICEXPIALIDOCIOUS. -125 -] IF YOU SAY IT LOUD ENOUGH YOU'LL ALWAYS SOUND PRECOCIOUS.
+[~] [ALL] ANYTHING CAN HAPPEN (ANYTHING CAN HAPPEN), ANYTHING CAN HAPPEN- SUPERCALIFRAGILISTICEXPIALIDOCIOUS SUPERCALIFRAGILISTICEXPIALIDOCIOUS
+[~] [ALL] SUPERCALIFRAGILISTICEXPIALIDOCIOUS SUPERCALIFRAGILISTICEXPIALIDOCIOUS
+[~] [ALL] S-U-P-E-R (S-U-P-E-R), C-A-L-I-F (C-A-L-I-F), R-A-G-I-L (R-A-G-I-L), I-S-I-T-C-E-X-P-I-A-L-I-D, O-C-I-O-U-S.
+[BERT] Here we go!
+[~] [ALL] SUPERCALIFRAGILISTICEXPIALIDOCIOUS EVEN THOUGH THE SOUND OF IT IS SOMETHING QUITE ATROCIOUS,
+[~] [ALL] IF YOU SAY IT LOUD ENOUGH YOU'LL ALWAYS SOUND PRECOCIOUS. SUPERCALIFRAGILISTIC-
 [MARY POPPINS, BERT] Supercaliiragilisticexpialidocious!
-[SONG] #25 -Pll1yoll t orchestra
+[~] [ALL] SUPER-CALIF-RAGILISTIS-EXPI-ALI-DO-CIOUS SUPERCALIFRAGILISTICEXPIALIDOCIOUS
+[SONG] #25 -Playout orchestra
