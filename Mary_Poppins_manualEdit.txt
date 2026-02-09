@@ -3,7 +3,7 @@
 [SCENE] SCENE 1: CHERRY TREE LANE -Rooftop , Street, Parlor
 [HEADER] #1 - Prologue Bert
 [STAGE] (London, 1910, It's autumn: a dark sky, scudding clouds. A landscape of early twentieth-century rooftops i spread out before us. BERT, a chimney sweep, enters and addresses the audience.)
-[~] [BERT] WIND'S IN THE EAST, THERE'S MIST COM1NG IN, LIKE SOMETHING IS BREWIN' AND 'BOUT TO BEGIN. CAN'T PUT MY FINGER ON WHAT LIES IN STORE, BUT I FEEL WHAT'S TO 'APPEN ALL 'APPENED BEFORE.
+[~] [BERT] WIND'S IN THE EAST, THERE'S MIST COMING IN, LIKE SOMETHING IS BREWIN' AND 'BOUT TO BEGIN. CAN'T PUT MY FINGER ON WHAT LIES IN STORE, BUT I FEEL WHAT'S TO 'APPEN ALL 'APPENED BEFORE.
 [STAGE] (GEORGE BANKS appears out of the forest of chimneys, as does his wife, WINIFRED, and their two children, JANE and MICHAEL. All of them, in their different ways, are disconnected and alone)
 [~] [BERT] A FATHER , A MOTHER, A DAUGHTER, A SON - THE THREADS OF THEIR LIVES ARE ALL RAVELLING UNDONE. SOMETHING IS NEEDED TO TWIST THEM AS TIGHT AS A STRING YOU MIGHT USE WHEN YOU'RE FLYING A KITE. CHIM CHIMINEY, CHIM CHIM CHER-EE CHIM CHER-OO.
 [STAGE] (MICHAEL and JANE rush around with a makeshift kite, pursued by their nanny, KATIE NANNA.)
@@ -1916,14 +1916,8 @@
 [SONG] #19-Stop in Time Bert, Michael, Jane, Sweeps, Mary Poppins
 [JANE] Bert! What are you doing up here?
 [BERT] And where else should a chimney sweep be?
-[~] [BERT] A CHIMNEY SWEPT, A SECRET KEPT,
-[~] [BERT] UP HERE ABOVE THE GABLES.
-[~] [BERT] ANOTHER WORLD TO BE UNFURLED,
-[~] [BERT] IT AINT JUST MYTHS AND FABLES.
-[~] [BERT] A CHIMNEY STACK LOOKS COLD AND BLACK
-[~] [BERT] AGAINST A TWILIT SKY.
-[~] [BERT] BUT NEVER FEAR, THERE'S WARMTH UP HERE.
-[~] [BERT] PERHAPS YOU'LL FIND OUT WHY.
+[~] [BERT] A CHIMNEY SWEPT, A SECRET KEPT, UP HERE ABOVE THE GABLES. ANOTHER WORLD TO BE UNFURLED, IT AINT JUST MYTHS AND FABLES. A CHIMNEY STACK LOOKS COLD AND BLACK
+[~] [BERT] AGAINST A TWILIT SKY. BUT NEVER FEAR, THERE'S WARMTH UP HERE. PERHAPS YOU'LL FIND OUT WHY.
 [STAGE] (MARY POPPINS appears on the roof She takes a powder compact from a pocket and checks her face.)
 [MARY POPPINS] What do I look like?
 [STAGE] (evens out the soot with a powder puff)
@@ -1935,10 +1929,7 @@
 [JANE] Not us, so much, but our troubles. They seem so big down in the nursery, but up here ...
 [BERT] That's more like it. Troubles are never so bad when you look at them from a little higher up. And always remember, there's plenty of folk ready to help you should you need 'em.
 [JANE] Who?
-[~] [BERT] CHIM CHIMINEY, CHIM CHIMINEY, CHIM CHIM CHER-EE.
-[~] [BERT] NOW, GUARDIAN ANGELS YOU DON'T OFTEN SEE.
-[~] [BERT] THEY'RE NOT HIGHFALUTIN', NOT GRAND NOR ALOOF.
-[~] [BERT] NAH, THEY'RE COVERED IN SOOT, AND THEY'RE UP ON YOUR ROOF.
+[~] [BERT] CHIM CHIMINEY, CHIM CHIMINEY, CHIM CHIM CHER-EE. NOW, GUARDIAN ANGELS YOU DON'T OFTEN SEE. THEY'RE NOT HIGHFALUTIN', NOT GRAND NOR ALOOF. NAH, THEY'RE COVERED IN SOOT, AND THEY'RE UP ON YOUR ROOF.
 [~] [JANE, MICHAEL] CHIM CHIMINEY , CHIM CHIM CHER-EE-
 [BERT] See, it's true!
 [STAGE] (A motley gang of CHIMNEY SWEEPS is revealed.)
@@ -1946,291 +1937,93 @@
 [~] [SWEEP 2] BRUSH AWAY YOUR TEARS
 [~] [SWEEP 3] COBWEBS THAT AREN'T SWEPT AWAY
 [~] [SWEEP 4] HANG AROUND FOR YEARS
-[~] [SWEEPS] IN ALL WEATHERS, UP ALL HOURS,
-[~] [SWEEPS] WE CAN SEE FOR MILES.
-[~] [SWEEPS] OUR IDEA OF HEAVEN IS
-[~] [SWEEPS] A NIGHT OUT ON THE TILES.
-[~] [SWEEPS] WE MAY LOOK A MOTLEY CREW
-[~] [SWEEPS] (WE MAY LOOK A MOTLEY CREW)
-[~] [SWEEPS] SMUDGED WITH TAR AND GRIME,
-[~] [SWEEPS] (SMUDGED WITH TAR AND GRIME)
-[~] [SWEEPS] BUT WHEN YOU NEED A HELPING HAND,
-[~] [SWEEPS] (WHEN YOU NEED A HELPING HAND)
-[~] [SWEEPS] WE TRY TO STEP IN
-[~] [SWEEPS] (TRY TO STEP IN)
-[~] [SWEEPS] TRY TO STEP IN
-[~] [SWEEPS] JUST IN TIME.
+[~] [SWEEPS] IN ALL WEATHERS, UP ALL HOURS, WE CAN SEE FOR MILES. OUR IDEA OF HEAVEN IS A NIGHT OUT ON THE TILES. WE MAY LOOK A MOTLEY CREW (WE MAY LOOK A MOTLEY CREW) SMUDGED WITH TAR AND GRIME, (SMUDGED WITH TAR AND GRIME) BUT WHEN YOU NEED A HELPING HAND, (WHEN YOU NEED A HELPING HAND) WE TRY TO STEP IN (TRY TO STEP IN) TRY TO STEP IN JUST IN TIME.
 [~] [BERT] WE WILL STEP IN
 [~] [SWEEPS] STEP IN TIME
 [~] [BERT] WE WILL STEP IN
 [~] [SWEEPS] STEP IN TIME
-[~] [BERT] NEVER NEED A REASON, NEVER NEED A RHYME.
-[~] [BERT] TRY TO STEP IN
-[~] [BERT, SWEEPS] STEP IN TIME
-[~] [BERT, SWEEPS] OVER THE ROOFTOPS, STEP IN TIME.
-[~] [BERT, SWEEPS] OVER THE ROOFTOPS, STEP IN TIME.
-[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME.
-[~] [BERT, SWEEPS] OVER THE ROOFTOPS, STEP IN TIME.
-[~] [BERT, SWEEPS] WATCH YOUR STEP, BUT STEP IN TIME.
-[~] [BERT, SWEEPS] WATCH YOUR STEP, BUT STEP IN TIME.
-[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME.
-[~] [BERT, SWEEPS] WATCH WHERE YOU STEP, BUT STEP IN TIME.
-[~] [BERT, SWEEPS] KICK YOUR KNEES UP, STEP IN TIME.
-[~] [BERT, SWEEPS] KICK YOUR KNEES UP, STEP IN TIME.
-[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME .
-[~] [BERT, SWEEPS] KICK YOUR KNEES UP, STEP IN TIME.
-[~] [MARY POPPINS] CHILDHOOD IS A STEP IN TIME,
-[~] [MARY POPPINS] PARENTHOOD'S THE SAME
+[~] [BERT] NEVER NEED A REASON, NEVER NEED A RHYME. TRY TO STEP IN
+[~] [BERT, SWEEPS] STEP IN TIME OVER THE ROOFTOPS, STEP IN TIME. OVER THE ROOFTOPS, STEP IN TIME. NEVER NEED A REASON, NEVER NEED A RHYME. OVER THE ROOFTOPS, STEP IN TIME.
+ WATCH YOUR STEP, BUT STEP IN TIME. WATCH YOUR STEP, BUT STEP IN TIME. NEVER NEED A REASON, NEVER NEED A RHYME. WATCH WHERE YOU STEP, BUT STEP IN TIME. KICK YOUR KNEES UP, STEP IN TIME.
+ KICK YOUR KNEES UP, STEP IN TIME. NEVER NEED A REASON, NEVER NEED A RHYME . KICK YOUR KNEES UP, STEP IN TIME.
+[~] [MARY POPPINS] CHILDHOOD IS A STEP IN TIME, PARENTHOOD'S THE SAME
 [~] [MARY POPPINS, BERT] NEVER MISS A CHANCE TO GET IT RIGHT.
 [SWEEPS] Whew!
-[~] [BERT] DON'T IT SEEM A PERFECT CRIME,
-[~] [BERT] DON'T IT SEEM A SHAME,
-[~] [MARY POPPINS, BERT] WHEN THE STEPS AREN'T GOING
-[~] [MARY POPPINS, BERT] AS SMOOTHLY AS THEY MIGHT?
-[~] [SWEEPS] THAT'S WHEN WE STEP IN, STEP IN TIME.
-[~] [SWEEPS] THAT'S WHEN WE STEP, STEP ... IN TIME.
-[~] [SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME.
-[~] [SWEEPS] THAT'S WHEN WE STEP IN, STEP IN TIME.
+[~] [BERT] DON'T IT SEEM A PERFECT CRIME, DON'T IT SEEM A SHAME,
+[~] [MARY POPPINS, BERT] WHEN THE STEPS AREN'T GOING AS SMOOTHLY AS THEY MIGHT?
+[~] [SWEEPS] THAT'S WHEN WE STEP IN, STEP IN TIME. THAT'S WHEN WE STEP, STEP ... IN TIME. NEVER NEED A REASON, NEVER NEED A RHYME. THAT'S WHEN WE STEP IN, STEP IN TIME.
 [STAGE] (Dance sequence.)
 [BERT] Here we go!
-[~] [ALL] SPIN SPIN SPIN SPIN SPIN.
-
-[~] [ALL] LINK YOUR ELBOWS, STEP IN TIME.
-
-[~] [ALL] LINK YOUR ELBOWS, STEP IN TIME.
-
-[~] [ALL] NEVER NEED A REASON, NEVER NEED A RHYME.
-
-[~] [ALL] LINK YOUR ELBOWS, STEP IN TIME.
-
-[~] [ALL] LINK YOUR ELBOWS , STEP IN TIME.
-
-[~] [ALL] STEP IN TIME, STEP-STEP IN TIME.
-
+[~] [ALL] SPIN SPIN SPIN SPIN SPIN. LINK YOUR ELBOWS, STEP IN TIME. LINK YOUR ELBOWS, STEP IN TIME. NEVER NEED A REASON, NEVER NEED A RHYME. LINK YOUR ELBOWS, STEP IN TIME.
+[~] [ALL] LINK YOUR ELBOWS , STEP IN TIME. STEP IN TIME, STEP-STEP IN TIME.
 [STAGE] (The SWEEPS , BERT, and MARY POPPINS perform an extended dance section. Bert orchestrates the action with "Your turn," "And you," etc.)
-
-[~] [MARY POPPINS] JUST REMEMBER, WHEN YOU'RE LOW,
-
-[~] [MARY POPPINS] FEELING IN THE WARS
-
+[~] [MARY POPPINS] JUST REMEMBER, WHEN YOU'RE LOW, FEELING IN THE WARS
 [~] [SWEEPS] SOMEONE'S UP YOUR CHIMNEY
-
 [~] [MARY POPPINS] AND IT ISN'T SANTA CLAUS!
-
-[~] [SWEEPS] IF YOU NEED US, IF YOU DON'T
-
-[~] [SWEEPS] (IF YOU NEED US, IF YOU DON'T),
-
-[~] [SWEEPS] DOESN'T MAKE MUCH ODDS
-
-[~] [SWEEPS] (DOESN'T MAKE MUCH ODDS)
-
-[~] [SWEEPS] WE'LL BE WATCHING OVER YOU
-
-[~] [SWEEPS] (WE'LL BE WATCHING OVER YOU),
-
-[~] [SWEEPS] BRUSHES , BROOMS AND
-
-[~] [SWEEPS] (BRUSHES , BROOMS AND)
-
-[~] [SWEEPS] BRUSHES, BRUSHES, BROOMS
-
+[~] [SWEEPS] IF YOU NEED US, IF YOU DON'T (IF YOU NEED US, IF YOU DON'T), DOESN'T MAKE MUCH ODDS (DOESN'T MAKE MUCH ODDS) WE'LL BE WATCHING OVER YOU (WE'LL BE WATCHING OVER YOU),
+[~] [SWEEPS] BRUSHES , BROOMS AND (BRUSHES , BROOMS AND) BRUSHES, BRUSHES, BROOMS
 [~] [BERT] AND RODS!
-
 [STAGE] (BERT begins an impressive climb over the rooftops.)
-
-[~] [BERT, SWEEPS] OVER THE ROOFTOPS.
-
-[~] [BERT, SWEEPS] OVER THE ROOFTOPS.
-
-[~] [BERT, SWEEPS] OVER THE ROOFTOPS.
-
-[~] [BERT, SWEEPS] OVER THE ROOFTOPS.
-
-[~] [BERT, SWEEPS] OVER THE ROOFTOPS, STEP IN TIME.
-
-[~] [OVER THE ROOFTOPS.] OVER THE ROOFTOPS, STEP IN TIME.
-
-[~] [OVER THE ROOFTOPS.] NEVER NEED A REASON, NEVER NEED A RHYME.
-
+[~] [BERT, SWEEPS] OVER THE ROOFTOPS. OVER THE ROOFTOPS. OVER THE ROOFTOPS. OVER THE ROOFTOPS. OVER THE ROOFTOPS, STEP IN TIME. OVER THE ROOFTOPS, STEP IN TIME. NEVER NEED A REASON, NEVER NEED A RHYME.
 [STAGE] (from a high perch)
-
 [~] [BERT] OVER THE ROOFTOPS, STEP IN TIME!
-
-[~] [BERT, SWEEPS] LINK YOUR ELBOWS, STEP IN TIME.
-
-[~] [BERT, SWEEPS] LINK YOUR ELBOWS, STEP IN TIME.
-
-[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME.
-
-[~] [BERT, SWEEPS] LINK YOUR ELBOWS, STEP IN TIME.
-
-[~] [BERT, SWEEPS] KICK YOUR KNEES UP, STEP IN TIME.
-
-[~] [BERT, SWEEPS] KICK YOUR KNEES UP, STEP IN TIME.
-
-[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME.
-
-[~] [BERT, SWEEPS] KICK YOUR KNEES UP, STEP IN TIME.
-
-[~] [BERT, SWEEPS] OH, STEP IN TIME (STEP IN TIME).
-
-[~] [BERT, SWEEPS] STEP IN TIME (STEP IN TIME).
-
-[~] [BERT, SWEEPS] STEP STEP STEP.
-
-[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME .
-
-[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME.
-
-[~] [BERT, SWEEPS] IF YOU KICK YOUR KNEES UP,
-
-[~] [BERT, SWEEPS] KICK YOUR KNEES UP,
-
-[~] [BERT, SWEEPS] KICK YOUR KNEES UP,
-
-[~] [BERT, SWEEPS] KICK YOUR KNEES UP,
-
-[~] [BERT, SWEEPS] STEP STEP,
-
-[~] [BERT, SWEEPS] STEP STEP STEP STEP,
-
-[~] [BERT, SWEEPS] STEP STEP STEP STEP,
-
-[~] [BERT, SWEEPS] STEP STEP STEP STEP STEP STEP STEP.
-
-[~] [BERT, SWEEPS] NEVER NEED A REASON IF YOU STEP IN TIME!
-
+[~] [BERT, SWEEPS] LINK YOUR ELBOWS, STEP IN TIME. LINK YOUR ELBOWS, STEP IN TIME. NEVER NEED A REASON, NEVER NEED A RHYME. LINK YOUR ELBOWS, STEP IN TIME.
+[~] [BERT, SWEEPS] KICK YOUR KNEES UP, STEP IN TIME. KICK YOUR KNEES UP, STEP IN TIME. NEVER NEED A REASON, NEVER NEED A RHYME. KICK YOUR KNEES UP, STEP IN TIME.
+[~] [BERT, SWEEPS] OH, STEP IN TIME (STEP IN TIME). STEP IN TIME (STEP IN TIME). STEP STEP STEP. NEVER NEED A REASON, NEVER NEED A RHYME. NEVER NEED A REASON, NEVER NEED A RHYME.
+[~] [BERT, SWEEPS] IF YOU KICK YOUR KNEES UP, KICK YOUR KNEES UP, KICK YOUR KNEES UP, KICK YOUR KNEES UP, STEP STEP, STEP STEP STEP STEP, STEP STEP STEP STEP,
+[~] [BERT, SWEEPS] STEP STEP STEP STEP STEP STEP STEP. NEVER NEED A REASON IF YOU STEP IN TIME!
 [SONG] #19A - Down the Chimney Bert, Sweeps
-
 [STAGE] (Dance break as the house appears.)
-
 [BERT] What ya 'gonna do?
-
 [SWEEPS] Step in time!
-
 [BERT] Shout it louder!
-
 [SWEEPS] Step in time!
-
-[~] [SWEEPS] STEP, STEP, STEP, STEP, STEP,
-
-[~] [SWEEPS] STEP, STEP, STEP, STEP, STEP.
-
+[~] [SWEEPS] STEP, STEP, STEP, STEP, STEP, STEP, STEP, STEP, STEP, STEP.
 [BERT] Down the chimney!
-
-[~] [BERT, SWEEPS] DOWN THE CHIMNEY, STEP IN TIME.
-
-[~] [BERT, SWEEPS] DOWN THE CHIMNEY, STEP IN TIME.
-
-[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME.
-
-[~] [BERT, SWEEPS] DOWN THE CHIMNEY, STEP IN TIME.
-
+[~] [BERT, SWEEPS] DOWN THE CHIMNEY, STEP IN TIME. DOWN THE CHIMNEY, STEP IN TIME. NEVER NEED A REASON, NEVER NEED A RHYME. DOWN THE CHIMNEY, STEP IN TIME.
 [BERT] Back to the nursery!
-
-[~] [BERT, SWEEPS] BACK TO THE NURS'RY , STEP IN TIME.
-
-[~] [BERT, SWEEPS] BACK TO THE NURS'RY, STEP IN TIME.
-
-[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME.
-
-[~] [BERT, SWEEPS] BACK TO THE NURS'RY, STEP IN TIME.
-
+[~] [BERT, SWEEPS] BACK TO THE NURS'RY , STEP IN TIME. BACK TO THE NURS'RY, STEP IN TIME. NEVER NEED A REASON, NEVER NEED A RHYME. BACK TO THE NURS'RY, STEP IN TIME.
 [STAGE] (The SWEEPS pass through the nursery down into the parlor, gathering up MRS. BRILL and ROBERTSON A Y as they do so. Then WINIFRED is caught up in the dance. The bell rings and rings again. At last GEORGE frees himself and opens the door to a MESSENGER.)
-
 [GEORGE] What is this? What is all this?
-
 [MESSENGER] Special delivery for George Banks, Esquire.
-
 [GEORGE] Special delivery?
-
 [STAGE] (The MESSENGER hands over the letter.)
-
-[~] [BERT, SWEEPS] SPECIAL DELIV'RY, STEP IN TIME.
-
-[~] [BERT, SWEEPS] SPECIAL DELIV'RY, STEP IN TIME.
-
-[~] [BERT, SWEEPS] NEVER NEED A REASON, NEVER NEED A RHYME .
-
-[~] [BERT, SWEEPS] SPECIAL DELIV'RY, STEP IN TIME.
-
+[~] [BERT, SWEEPS] SPECIAL DELIV'RY, STEP IN TIME. SPECIAL DELIV'RY, STEP IN TIME. NEVER NEED A REASON, NEVER NEED A RHYME. SPECIAL DELIV'RY, STEP IN TIME.
 [BERT] Time to go now. Goodnight, Guv'nor.
-
-[~] [BERT, SWEEPS] GOODNIGHT, GUV'NOR, STEP IN TIME.
-
-[~] [BERT, SWEEPS] GOODNIGHT, GUV'NOR, STEP IN TIME.
-
-[~] [BERT, SWEEPS] NEVER NEED A REASON , NEVER NEED A RHYME .
-
-[~] [BERT, SWEEPS] GOODNIGHT, GUV'NOR , STEP IN TIME.
-
+[~] [BERT, SWEEPS] GOODNIGHT, GUV'NOR, STEP IN TIME. GOODNIGHT, GUV'NOR, STEP IN TIME. NEVER NEED A REASON , NEVER NEED A RHYME . GOODNIGHT, GUV'NOR , STEP IN TIME.
 [STAGE] (Without another word, the SWEEPS dance out past the dazed GEORGE through the open front door, carrying the MESSENGER with them. They greet GEORGE variously as they pass.)
-
-[SWEEPS] Good night, Guv'nor. Cheerio, Guv'nor. C'night, Guv'nor.
-
+[SWEEPS] Good night, Guv'nor. Cheerio, Guv'nor. G'night, Guv'nor.
 [STAGE] (disguised as a SWEEP)
-
 [MICHAEL] Cheerio, Guv'nor.
-
 [STAGE] (But this penultimate SWEEP looks a little familiar.)
-
 [GEORGE] Not so fast. Upstairs ... now! Jane, you too. Mary Pop pins, would you be good enough to explain?
-
 [MARY POPPINS] First of all, I would like to make one thing clear.
-
 [GEORGE] Yes?
-
 [MARY POPPINS] I never explain anything. Come along, children.
-
 [STAGE] (MARY POPPINS goes upstairs with JANE and MICHAEL.)
-
 [HEADER] SCENE 9: A MAN HAS DREAMS - Parlor
-
 [STAGE] (The sweeps have gone; only BERT lingers, unnoticed by the rest. GEORGE has opened the letter. WINIFRED comes over. He looks up.)
-
 [GEORGE] It's happened. The Chairman wants to see me at the close of business tonight.
-
 [WINIFRED] Tonight! Well I'm going to come with you and jolly well give your Chairman a piece of my mind.
-
 [GEORGE] That would only make matters worse. We might as well face it. In just a few hours I will have joined the ranks of the unemployed.
-
 [WINIFRED] Oh, George. Are you quite sure?
-
 [GEORGE] Quite sure. So we'd better make some plans. In fact, I'm afraid the time has come ...
-
 [STAGE] (GEORGE looks up at his mother's precious vase as MRS. BRILL comes into the parlor to tidy up.)
-
 [WINIFRED] Do you mean your mother's vase? Won't you miss it terribly?
-
 [GEORGE] Needs must, my dear. We always said we were saving it for a rainy day, and tomorrow it looks set to pour.
-
 [STAGE] (GEORGE climbs onto a chair and, gingerly, he picks up the vase.)
-
 [WINIFRED] George - do be careful.
-
 [STAGE] (GEORGE starts to climb down again when MRS. BRILL absentmindedly bangs into the chair amid her cleaning. The vase slips from George's hands and shatters on the floor. MRS. BRILL is aghast.)
-
 [MRS. BRILL] Ah! The heirloom!
-
 [STAGE] (Pulling out a huge handkerchief MRS. BRILL starts to blub uncontrollably. This is not helping the stunned GEORGE.)
-
 [WINIFRED] Mrs. Brill, let's go to the kitchen, shall we? You'd better sit down ...
-
 [STAGE] (MARY POPPINS appears on the landing and sniffs the air.)
-
 [MARY POPPINS] Mrs. Brill, is that the dirmer cooking?
-
 [STAGE] (lifts her face from her handkerchief)
-
 [MRS. BRILL] Don't you start. I've opened all the windows-
-
 [MARY POPPINS] I was only going to say that it smells ... delicious!
-
 [STAGE] (MARY POPPINS heads up the stairs.)
-
 [MRS. BRILL] The whole world has gone upside-down!
-
 [STAGE] (MRS. BRILL exits with renewed anguish, followed by WINIFRED.)
 [STAGE] George, Bert
 [STAGE] (GEORGE is alone when he sees a smattering of shining stars among the broken pieces. He bends down to pick them up.)
@@ -2247,36 +2040,21 @@
 [GEORGE] Funny. I haven't thought about all that in years. I'm not usually sentimental.
 [BERT] S' good to look back sometimes.
 [GEORGE] Is it? I'm not so sure.
-[~] [GEORGE] A MAN HAS DREAMS OF WALKING WITH GIANTS,
-[~] [GEORGE] TO CARVE HIS NICHE IN THE EDIFICE OF TIME.
-[~] [GEORGE] BEFORE THE MORTAR OF HIS ZEAL
-[~] [GEORGE] HAS THE CHANCE TO CONGEAL,
-[GEORGE] The cup is dashed from his lips.
-[GEORGE] The flame is snuffed aborning.
-[GEORGE] He's brought to rack and ruin in his prime!
+[~] [GEORGE] A MAN HAS DREAMS OF WALKING WITH GIANTS, TO CARVE HIS NICHE IN THE EDIFICE OF TIME. BEFORE THE MORTAR OF HIS ZEAL HAS THE CHANCE TO CONGEAL,
+[GEORGE] The cup is dashed from his lips. The flame is snuffed aborning. He's brought to rack and ruin in his prime!
 [BERT] Life's a rum go, Guv'nor, and that's the truth.
 [GEORGE] You know what I think? It's Mary Poppins! From the moment she stepped into the house, things began to happen to me!
-[~] [GEORGE] MY WORLD WAS CALM, WELL ORDERED, EXEMPLARY.
-[~] [GEORGE] THEN CAME THIS PERSON WITH CHAOS IN HER WAKE,
-[~] [GEORGE] AND NOW MY LIFE'S AMBITIONS GO WITH ONE FELL BLOW.
-[~] [GEORGE] IT'S QUITE A BITTER PILL TO TAKE.
+[~] [GEORGE] MY WORLD WAS CALM, WELL ORDERED, EXEMPLARY. THEN CAME THIS PERSON WITH CHAOS IN HER WAKE, AND NOW MY LIFE'S AMBITIONS GO WITH ONE FELL BLOW. IT'S QUITE A BITTER PILL TO TAKE.
 [GEORGE] It's that Poppins woman! She's responsible for all this!
 [BERT] I know the very person. What's that thing she's always saying?
-[~] [BERT] A SPOONFUL OF SUGAR, THAT IS ALL IT TAKES.
-[~] [BERT] IT CHANGES BREAD AND WATER INTO TEA AND CAKES.
-[~] [BERT] A SPOONFUL OF SUGAR GOES A LONG, LONG WAY,
-[~] [BERT] SO' AVE YOURSELF AN 'EALTHY 'ELPING EVERY DAY.
+[~] [BERT] A SPOONFUL OF SUGAR, THAT IS ALL IT TAKES. IT CHANGES BREAD AND WATER INTO TEA AND CAKES. A SPOONFUL OF SUGAR GOES A LONG, LONG WAY, SO' AVE YOURSELF AN 'EALTHY 'ELPING EVERY DAY.
 [GEORGE] A healthy helping of trouble if you ask me!
 [STAGE] (GEORGE attempts to occupy himself with papers in his study.)
 [BERT] Like you say, Guv'nor.
 [STAGE] (placing the vase pieces carefully in the rubbish bin)
-[~] [BERT] YOU'VE GOT TO GRIND, GRIND, GRIND AT THAT GRINDSTONE
-[~] [BERT] THOUGH CHILDHOOD SLIPS LIKE SAND THROUGH A SIEVE.
-[~] [BERT] AND ALL TOO SOON THEY'VE UP AND GROWN, 
-[~] [BERT] AND THEN THEY'VE FLOWN, AND IT'S TOO LATE FOR YOU TO GIVE ...
+[~] [BERT] YOU'VE GOT TO GRIND, GRIND, GRIND AT THAT GRINDSTONE THOUGH CHILDHOOD SLIPS LIKE SAND THROUGH A SIEVE. AND ALL TOO SOON THEY'VE UP AND GROWN,  AND THEN THEY'VE FLOWN, AND IT'S TOO LATE FOR YOU TO GIVE ...
 [STAGE] (The CHILDREN come out of the nursery and start downstairs. MARY POPPINS watches remains behind on the stairs. GEORGE re-enters the parlor.)
-[~] [BERT] JUST THAT SPOONFUL OF SUGAR TO 'ELP THE MEDICINE GO DOWN,
-[~] [BERT] THE MEDICINE GO DOWN, MEDICINE GO DOWN ...
+[~] [BERT] JUST THAT SPOONFUL OF SUGAR TO 'ELP THE MEDICINE GO DOWN, THE MEDICINE GO DOWN, MEDICINE GO DOWN ...
 [STAGE] (holds out his hand to GEORGE)
 [BERT] Well, good luck, Guv'nor.
 [STAGE] (For a moment, GEORGE is still and then, deliberately, he takes the sooty paw and shakes it firmly.)
@@ -2317,103 +2095,43 @@
 [WINIFRED] I'd like to go, but I'm afraid it just isn't possible.
 [MICHAEL] Why?
 [STAGE] (smiles)
-
 [WINIFRED] Because I'm a woman.
-
 [STAGE] (There's a pause. MARY POPPINS enters.)
-
 [JANE] Mary Poppins says anything is possible if we can only get out of our own way.
-
 [SONG] #21 - Anything Can Happen (Part 1)
-
 [STAGE] Mary Poppins, Jane, Michael, Winifred, Bird Woman, Board of Directors
-
 [WINIFRED] Do you really believe that, Mary Poppins?
-
-[~] [MARY POPPINS] ANYTHING CAN HAPPEN IF YOU LET IT.
-
-[~] [MARY POPPINS] SOMETIMES THINGS ARE DIFFICULT, BUT YOU CAN BET IT
-
-[~] [MARY POPPINS] DOESN'T HAVE TO BE SO.
-
+[~] [MARY POPPINS] ANYTHING CAN HAPPEN IF YOU LET IT. SOMETIMES THINGS ARE DIFFICULT, BUT YOU CAN BET IT DOESN'T HAVE TO BE SO.
 [~] [JANE] CHANGE CAN BE MADE
-
 [~] [MICHAEL] YOU CAN MOVE A MOUNTAIN IF YOU USE A LARGER SPADE.
-
 [~] [MARY POPPINS] ANYTHING CAN HAPPEN -IT'S A MARVEL.
-
 [~] [MICHAEL] YOU CAN BE A BUTTERFLY
-
 [~] [JANE] OR JUST STAY LARVAL.
-
-[~] [JANE, MICHAEL] STRETCH YOUR MIND BEYOND FANTASTIC
-
-[~] [JANE, MICHAEL] DREAMS ARE MADE OF STRONG ELASTIC
-
+[~] [JANE, MICHAEL] STRETCH YOUR MIND BEYOND FANTASTIC DREAMS ARE MADE OF STRONG ELASTIC
 [~] [MARY POPPINS] TAKE SOME SOUND ADVICE, AND DON'T FORGET IT.
-
 [~] [MARY POPPINS, JANE, MICHAEL] ANYTHING CAN HAPPEN IF YOU LET IT.
-
 [WINIFRED] I wonder...
-
 [~] [WINIFRED, JANE, MICHAEL] ANYTHING CAN HAPPEN IF YOU LET IT.
-
 [~] [WINIFRED] YOU WON'T KNOW A CHALLENGE UNTIL YOU'VE MET IT.
-
 [~] [MICHAEL] NO-ONE DOES IT FOR YOU,
-
-[~] [WINIFRED] NO-ONE BUT YOURSELF
-
-[~] [WINIFRED]VACILLATING VIOLETS GET LEFT UP ON THE SHELF.
-
-[~] [WINIFRED] ANYTHING CAN HAPPEN, JUST IMAGINE!
-
-[~] [MARY POPPINS] THAT SHOULD BE MY EPITAPH:
-
-[~] [MARY POPPINS] I WEAR THE BADGE IN HONOR OF THIS WORLD 'S FREE THINKERS ,
-
+[~] [WINIFRED] NO-ONE BUT YOURSELF VACILLATING VIOLETS GET LEFT UP ON THE SHELF. ANYTHING CAN HAPPEN, JUST IMAGINE!
+[~] [MARY POPPINS] THAT SHOULD BE MY EPITAPH: I WEAR THE BADGE IN HONOR OF THIS WORLD 'S FREE THINKERS ,
 [~] [WINIFRED] THOSE WHO SEE BEYOND THEIR BLINKERS.
-
 [~] [JANE, MICHAEL] JELLY ISN'T JELLY
-
 [~] [JANE, MICHAEL, WINIFRED] 'TIL YOU SET IT.
-
 [~] [JANE, MICHAEL, WINIFRED, MARY POPPINS] ANYTHING CAN HAPPEN IF YOU LET IT.
-
 [STAGE] (WINIFRED exits. MARY POPPINS looks out of the nursery, clearly with something in mind.)
-
-[~] [MARY POPPINS] IF YOU REACH FOR THE STARS,
-
-[~] [MARY POPPINS] ALL YOU GET ARE THE STARS,
-
-[~] [MARY POPPINS] BUT WE'VE FOUND A WHOLE NEW SPIN.
-
-[~] [MARY POPPINS] IF YOU REACH FOR THE HEAVENS,
-
-[~] [MARY POPPINS] YOU GET THE STARS THROWN IN.
-
+[~] [MARY POPPINS] IF YOU REACH FOR THE STARS, ALL YOU GET ARE THE STARS, BUT WE'VE FOUND A WHOLE NEW SPIN. IF YOU REACH FOR THE HEAVENS, YOU GET THE STARS THROWN IN.
 [STAGE] (MARY POPPINS takes the CHILDREN's hands, and together they step out of the nursery and fly over the rooftops of London.)
-
 [HEADER] SCENE 11: ANYTHING CAN HAPPEN, PART 2 - Cathedral Steps, Bank
-
-[STAGE] (On a street near the steps of St. Paul's Cathdral, MARY POPPINS and the CHILDREN become spectators, unseen by the others. Snow starts to fall. The BIRD WOMAN scatters corn for the pigeons. GEORGE enters and walks until, as a background to his troubled thoughts, he sees her.)
-
-[~] [BIRD WOMAN] FEED THE BIRDS, TUPPENCE A BAG,
-
-[~] [BIRD WOMAN] TUPPENCE, TUPPENCE, TUPPENCE A BAG.
-
+[STAGE] (On a street near the steps of St. Paul's Cathedral, MARY POPPINS and the CHILDREN become spectators, unseen by the others. Snow starts to fall. The BIRD WOMAN scatters corn for the pigeons. GEORGE enters and walks until, as a background to his troubled thoughts, he sees her.)
+[~] [BIRD WOMAN] FEED THE BIRDS, TUPPENCE A BAG, TUPPENCE, TUPPENCE, TUPPENCE A BAG.
 [STAGE] (GEORGE passes the BIRD WOMAN, then he hesitates and retraces his steps.)
-
 [BIRD WOMAN] Feed the birds, sir? Only tuppence a bag.
-
 [STAGE] (pulls out two coins and puts them in her hand)
-
 [GEORGE] I would take it as a great favor if you would kindly feed them for me.
-
 [~] [BIRD WOMAN] TUPPENCE, TUPPENCE, TUPPENCE A BAG.
-
 [STAGE] (Leaving the BIRD WOMAN staring at the amount he has given, GEORGE walks towards the bank. For all his bravado, he is nervous now that the time has come. He shines his shoes on the backs of his trouser legs and enters the bank. The entire BOARD OF DIRECTORS is waiting inside the bank.)
-
 [BOARD OF DIRECTORS] PRECISION AND ORDER, PAYING ONES DEBTS, RISKING OUR INVESTMENTS, HEDGING OUR BETS. Mr. Banks is here. Come in, Banks. TRADING IN FUTURES, JOBS ON THE LINE.
 [STAGE] (GEORGE enters. He stands there, alone. MARY POPPINS and the CHILDREN observe the action, unseen.)
 [CHAIRMAN] Welt Banks, how did it happen? You turned down a scheme that was bound to make millions, and we want to know why.
