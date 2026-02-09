@@ -42,39 +42,25 @@
 [STAGE] (KATIE NANNA stumbles. MICHAEL and JANE have run into the house. WINIFRED BANKS has appeared in time to witness KATIE NANNA storming out.)
 [WINIFRED] Katie Nanna? Where are you going? Katie Nanna!?
 [~] [MRS. BRILL] KATIE NANNA'S GONE AND IS IT ANY WONDER, DRIVEN HALF DEMENTED BY YOUR CHILDREN'S PRANKS?
-
-[~] [WINIFRED] DO YOU REALLY THfNK [ MADE ANOTHER BLU DER? \VI-fAT ON EARTH t...:v1 T TO SAY TO MR. BA K?
+[~] [WINIFRED] DO YOU REALLY THINK U MADE ANOTHER BLUNDER? WHAT ON EARTH AM I TO SAY TO MR. BANKS?
 [STAGE] (knocks at the study door)
-[~] [WINIFRED] GEORGE ,DEA R, r M FEELI'-.:G 0 BEREFT DE R. ANOTHER. 'ANl\.'Y'S LEFT, DEAR. EVER Y j\; A !\. Y GOES. WE'RE U'\J UCKY ISL"PPO E.
+[~] [WINIFRED] GEORGE, DEAR, I'M FEELING SO BEREFT, DEAR. ANOTHER. ANOTHER NANN'S LEFT, DEAR. EVERY NANNY GOES. WE'RE UNLUCKY I SUPPOSE.
 [PAGE#] 4
-[~] [MRS. BRILL, ROBERTSON AY, JANE, MICHAEL] WE ARE KEVER GOTI C TO FIND THE PERFECT ANNY,
-[STAGE] (The stlldy door/lies open and GEORGE stride~ Ollt)
+
+[~] [MRS. BRILL, ROBERTSON AY, JANE, MICHAEL] WE ARE NEVER GONNA TO FIND THE PERFECT NANNY!
+[STAGE] (The study door/flies open and GEORGE strides out.)
 [GEORG] Nonsense!
-[~] [GEORGE] PRECISION A~D ORDER, THAT'C, ALL THAT I ASK. THE RU !l\G OF A HOU HOLD,.t\ STR IGHTFORWARD T SK.
-[PRECISION A~D ORDER,] fH CHILDR ,THE R
-[~] [PRECISION A~D ORDER,] ARE ALL YOUR DOM I'
-[PRECISION A~D ORDER,] WHILST 1 REMAIl\. THE OV RElGl' OF CHERRY TREE LA E.
-[PRECISION A~D ORDER,] (GEORGE holds his arms out mlit WINIFRED helps him into it as he continues to
-[PRECISION A~D ORDER,] berate her.)
-[PRECISION A~D ORDER,] The simple truth is you've engaged six nanni in the Ja_t four months, and they've
-[PRECISION A~D ORDER,] all been unqualtfi d disaster~1
-[~] [PRECISION A~D ORDER,] N ~\N Y SHOULD GOVERN .
-[~] [PRECISION A~D ORDER,] A NANNY SHOL'LD R 'LE.
-[~] [PRECISION A~D ORDER,] A NANI\:Y IS A PARAGO WHO UFFERS 0 FOOL.
-[PRECISION A~D ORDER,] A l\AJ\,NY'S A STALW RT.
-[~] [PRECISION A~D ORDER,] OL R CHILDRE:'\! WOULD GAIN
-[PRECISION A~D ORDER,] BY 1 fA\'ING SUCH A A]\'i\'Y r HERRY TREE LANE.
-[WINIFRED] Of course, Ge rge, bul-
-[WINIFRED] Briefcase! GEORGE
-[WINIFRED] SO TAKE CONTRO L OF lTUATJONS.
-[~] [WINIFRED] SHOW YO R AUTHO RITY WHE. INTERVIEWI G STAFF.
-[WINIFRED] YOl KNOW YOUR ROLE, THEY KNOW THEIR STATIONS.
-[WINIFRED] EFFlCIENC Y AJ'\D FOR THOUGH T CUT THE JOBS I HALF.
-[STAGE] (RORERTSON A Y dlitiflllly delivers the brief ase.)
-[WINIFRED] I thought Katie anna would b firm with the children. She always looked _ 0 cross.
+[~] [GEORGE] PRECISION AND ORDER, THAT'S, ALL THAT I ASK. THE RU !l\G OF A HOUSEHOLD,.t\ STRAIGHTFORWARD TASK. THE CHILDREN,THE SERVANTS ARE ALL YOUR DOMAIN WHILST I REMAIN THE SOVEREIGN OF CHERRY TREE LANE.
+[STAGE] (GEORGE holds his arms out mlit WINIFRED helps him into it as he continues to berate her.)
+[GEORGE] The simple truth is you've engaged six nanni in the Ja_t four months, and they've all been unqualtfi d disaster~1
+[~] [George] N ~\N Y SHOULD GOVERN . A NANNY SHOL'LD R 'LE. A NANI\:Y IS A PARAGO WHO UFFERS 0 FOOL. A l\AJ\,NY'S A STALW RT. OL R CHILDRE:'\! WOULD GAIN BY 1 fA\'ING SUCH A A]\'i\'Y r HERRY TREE LANE.
+[WINIFRED] Of course, Geirge, but-
+[~] [GEORGE] SO TAKE CONTRO L OF lTUATJONS. SHOW YO R AUTHO RITY WHE. INTERVIEWI G STAFF. YOl KNOW YOUR ROLE, THEY KNOW THEIR STATIONS. EFFlCIENC Y AJ'\D FOR THOUGH T CUT THE JOBS I HALF.
+[WINIFRED] Briefcase
+[STAGE] (RORERTSON AY dlitiflllly delivers the brief ase.)
+[WINIFRED] I thought Katie Nanna would be firm with the children. She always looked so cross.
 [GEORGE] Winiired , never confuse efficiency with a liver complaint. mbrella!
-[~] [GEORGE] ,W IRY POPPTSS -5 -
-[GEORGE] ------------------ ------------ -----------
+[PAGE#] 5
 [STAGE] (WINIFRED gwec:, nn IImbrella to GEORGE. )
 [WINIFRED] H only ',,-e could find some ne like your old nanny.
 [GEORG E] I'm afraid that's not realistic, my dear. Fe"", women alive could manage Miss
