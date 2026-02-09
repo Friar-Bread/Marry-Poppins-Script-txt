@@ -2153,7 +2153,8 @@
 [STAGE] (Leaving the BIRD WOMAN staring at the amount he has given, GEORGE walks towards the bank. For all his bravado, he is nervous now that the time has come. He shines his shoes on the backs of his trouser legs and enters the bank. The entire BOARD OF DIRECTORS is waiting inside the bank.)
 [BOARD OF DIRECTORS] PRECISION AND ORDER, PAYING ONES DEBTS, RISKING OUR INVESTMENTS, HEDGING OUR BETS. Mr. Banks is here. Come in, Banks. TRADING IN FUTURES, JOBS ON THE LINE.
 [STAGE] (GEORGE enters. He stands there, alone. MARY POPPINS and the CHILDREN observe the action, unseen.)
-[CHAIRMAN] Welt Banks, how did it happen? You turned down a scheme that was bound to make millions, and we want to know why.
+[PAGE#] 115
+[CHAIRMAN] Well Banks, how did it happen? You turned down a scheme that was bound to make millions, and we want to know why.
 [STAGE] (The assembled BANKERS wait. Firmly, GEORGE starts to speak.)
 [GEORGE] Then I'll tell you. I refused Mr. Von Hussler because his scheme was hollow. It had no product, it had no substance, it had no meaning outside the walls of a bank! Oh yes, he told me about assets and profits and growth, but there wasn't a word about people! I know that if a man puts any value on real life, then as far as you're concerned he's a wash-out, but I'm afraid I do value it, gentlemen. In short, George Banks, Esquire, has rediscovered the human race! I apologize for ruining the bank. But I do not apologize for understanding that there are more important things in life than making money!
 [STAGE] (The silence that greets this is not one of indignation but rather of bewilderment. At last the CHAIRMAN speaks.)
@@ -2165,6 +2166,7 @@
 [STAGE] (immobile for a second, but only for a second)
 [GEORGE] Give you the word? Give you the word? I'll give you the word all right: SUPERCALIFRAGILISTICEXPIALIDOCIOUS
 [STAGE] (GEORGE suddenly starts to laugh and spin and crash and shout.)
+[PAGE#] 116
 [~] [GEORGE] EVEN THOUGH THE SOUND OF IT IS SOMETHING QUITE ATROCIOUS, IF YOU SAY IT LOUD ENOUGH YOU'LL ALWAYS SOUND PRECOCIOUS. SUPERCALIFRAGILISTICEXPIALIDOCIOUS
 [STAGE] (kneels at the CHAIRMAN's feet)
 [MARY POPPINS] Oh, sir! Thank you!
@@ -2182,6 +2184,7 @@
 [CHAIRMAN] Gentlemen.
 [STAGE] (to WINIFRED , gesturing toward the door)
 [CHAIRMAN] Madam, if you please, we still have some business to conduct.
+[PAGE#] 117
 [STAGE] (WINIFRED stands firmly in place. The CHAIRMAN concedes, not that he has a choice in the matter.)
 [CHAIRMAN] Ah, well, Banks -George -by way of recompense, we'd like to offer you the job of senior manager with a salary at double-
 [WINIFRED] Exactly how much has he made for you?
@@ -2199,6 +2202,7 @@
 [STAGE] (nodding)
 [BANKERS] Agreed!
 [STAGE] (Surrounded by a gaggle of ecstatic BANKERS, GEORGE and WINIFRED walk off together into their new life. MARY POPPINS and the CHILDREN follow as magical observers.)
+[PAGE#] 118
 [HEADER] SCENE 12: ANYTHING CAN HAPPEN, PART 3 - Park, Heavens
 [GEORGE] Winifred, I'm afraid I've underestimated you. How can you forgive me?
 [WINIFRED] How can you ask?
@@ -2211,7 +2215,8 @@
 [~] [BERT] ANYTHING CAN HAPPEN IF YOU LET IT.
 [~] [MARY POPPINS] IF YOU REACH FOR THE STARS, ALL YOU'LL GET ARE THE STARS, BUT WE'VE FOUND A WHOLE NEW SPIN. IF YOU REACH FOR THE HEAVENS , YOU GET THE STARS THROWN IN ...
 [~] [ENSEMBLE] YOU GET THE STARS THROWN IN. (YOU GET THE STARS THROWN IN.)
-[ENSEMBLE] AH...
+[PAGE#] 119
+[~] [ENSEMBLE] AH...
 [JANE] There are the stars!
 [MICHAEL] I want the constellations, too!
 [MARY POPPINS] Do you indeed? I wonder you don't ask for the moon as well.
@@ -2223,6 +2228,7 @@
 [~] [ALL] ANYTHING CAN HAPPEN (ANYTHING),
 [~] [MARY POPPINS, JANE, MICHAEL] ANYTHING CAN HAPPEN
 [SONG] #22A -The Best Yet orchestra
+[PAGE#] 120
 [HEADER] SCENE 13: I LOVE YOU, MARY POPPINS -Park
 [STAGE] (The stars retreat as the park is revealed under ths night sky. The statue of NELEUS is now reunited with the statue of his father, Poseidon. A few STRAGGLERS remain. MARY POPPINS , MICHAEL, and JANE walk downstage as the park gates come into view. We are back where our Jolly Holiday started, with BERT finishing a drawing.)
 [JANE] Mary Poppins, Neleus and Poseidon will live happily ever after, won't they?
@@ -2241,6 +2247,7 @@
 [STAGE] (questioningly)
 [MARY POPPINS] Thank you. MICHAEL Now, run along in. It's getting cold.
 [STAGE] (JANE leads the way off when MICHAEL stops and turns.)
+[PAGE#] 121
 [MICHAEL] I love you, Mary Poppins.
 [STAGE] (gently)
 [MARY POPPINS] You are a fine boy Michael Banks, and one day you will be a fine man.
@@ -2259,6 +2266,7 @@
 [MARY POPPINS] Goodbye, Bert. Look after yourself.
 [SONG] #23 A Spoonful of Sugar (Reprise) Mary Poppins
 [STAGE] (MARY POPPINS gives BERT a gentle kiss on the cheek, after which he wistfully turns away and leaves. MARY POPPINS walks back to No. 17.)
+[PAGE#] 122
 [HEADER] SCENE 14: FAMILY LIFE -Nursery
 [STAGE] (MARY POPPINS appears in the nursery.)
 [~] [MARY POPPINS] WITH EVERY JOB WHEN IT'S COMPLETE, THERE IS A SENSE OF BITTER-SWEET, THAT MOMENT WHEN YOU KNOW THE TASK IS DONE. THOUGH IN YOUR HEART YOU'D LIKE TO STAY
@@ -2277,6 +2285,7 @@
 [MICHAEL] She's signed it. "From Mary Poppins with a good deal of love."
 [STAGE] (WINIFRED and GEORGE enter.)
 [WINIFRED] Mary Poppins ... ?
+[PAGE#] 123
 [JANE] She's gone.
 [WINIFRED] Gone? How peculiar.
 [GEORGE] She'll be back. Now, what do you think of this?
@@ -2294,7 +2303,8 @@
 [WINIFRED] I wonder if she's right, George, and we really could do without a nanny from now on. What do you think?
 [GEORGE] I think you'd better come and dance with me!
 [WINIFRED] George, this is serious.
-[STAGE] (GEORGE takes WINIFRED by the hand, and they dance. GEORGE spots something out the window.) -123 -
+[STAGE] (GEORGE takes WINIFRED by the hand, and they dance. GEORGE spots something out the window.) 
+[PAGE#] 123
 [GEORGE] Look! Wasn't that a shooting star?
 [MICHAEL] You can borrow my telescope.
 [STAGE] (The BANKSES move out of the nursery and stand on the parapet, the whole family united for the first time.)
@@ -2310,7 +2320,7 @@
 [~] [ALL] (ANYTHING CAN HAPPEN) ANYTHING CAN HAPPEN, IT'S A MARVEL. (ANYTHING CAN HAPPEN) YOU CAN BE A BUTTERFLY
 [ALL] OR JUST STAY LARVAL
 [~] [ALL] STRETCH YOUR MIND BEYOND FANTASTIC. DREAMS ARE MADE OF STRONG ELASTIC. GO AND CHASE YOUR DREAMS, YOU WON'T REGRET IT.
-[STAGE] (ALL)
+[PAGE#] 124
 [~] [ALL] ANYTHING CAN HAPPEN (ANYTHING CAN HAPPEN), ANYTHING CAN HAPPEN- SUPERCALIFRAGILISTICEXPIALIDOCIOUS SUPERCALIFRAGILISTICEXPIALIDOCIOUS
 [~] [ALL] SUPERCALIFRAGILISTICEXPIALIDOCIOUS SUPERCALIFRAGILISTICEXPIALIDOCIOUS
 [~] [ALL] S-U-P-E-R (S-U-P-E-R), C-A-L-I-F (C-A-L-I-F), R-A-G-I-L (R-A-G-I-L), I-S-I-T-C-E-X-P-I-A-L-I-D, O-C-I-O-U-S.
