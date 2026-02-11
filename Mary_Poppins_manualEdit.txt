@@ -1379,21 +1379,19 @@
 [MRS. BRILL] It's French, I know that. Does it mean "God bless you"? Or is it "Good luck"? No,
 [MRS. BRILL] I remember now. '''Til we meet again." Now, corne inside before you catch your
 [MRS. BRILL] death.
+
+
 [STAGE] (END OF ACT ONE.)
+[PAGE#] 72
 [HEADER] ACT TWO
 [HEADER] SCENE 1: BRIMSTONE AND TREACLE -Street, Parlor
-[SONG] #14 -Cherry Tree Lalle (Repri5e) Mrs. Brill, Robertson Ay, Jane,
-[STAGE] Michael, Winifred, George
-[STAGE] (Several weeks have passed -it's winter now. The wind blows hard. PEOPLE run by
-[STAGE] with heavy coats, chasing their hats down Cherry Tree Lane. BERT and ADMIRAL
-[STAGE] BOOM cross paths.)
+[SONG] #14 -Cherry Tree ne (Reprise) Mrs. Brill, Robertson Ay, Jane, Michael, Winifred, George
+[STAGE] (Several weeks have passed -it's winter now. The wind blows hard. PEOPLE run by with heavy coats, chasing their hats down Cherry Tree Lane. BERT and ADMIRAL BOOM cross paths.)
 [BERT] 'Morning, Admiral.
 [ADMIRAL BOOM] Lovely weather!
-[ADMIRAL BOOM] (There's a flurry of activity in the house. Watched by the CHILDREN on the stairs,
-[ADMIRAL BOOM] WINIFRED hurries around seeing to the preparations. MRS. BRILL and
-[ADMIRAL BOOM] ROBERTSON A Y try to keep up.)
+[STAGE] (There's a flurry of activity in the house. Watched by the CHILDREN on the stairs, WINIFRED hurries around seeing to the preparations. MRS. BRILL and ROBERTSON A Y try to keep up.)
 [WINIFRED] Mrs. Brill, is the nursery tidy?
-[MRS. BRILL] As tidy as I can make it, rna' am.
+[MRS. BRILL] As tidy as I can make it, ma' am.
 [WINIFRED] If you knew how hard it was to track her down!
 [MRS. BRILL] Really, ma'am? Fancy that.
 [STAGE] (turns to ROBERTSON A Y, who straightens the rugs)
@@ -1403,6 +1401,7 @@
 [~] [ROBERTSON AY] 'LEAST SHE MAKES LIFE EASIER FOR BOTH OF US!
 [STAGE] (Muttering, MRS. BRILL walks past the CHILDREN.)
 [MICHAEL] Mrs. Brill, it is her, isn't it?
+[PAGE#] 73 
 [MRS. BRILL] Well, I don't know who else.
 [MICHAEL] Why is it such a secret?
 [~] [MICHAEL] DO YOU THINK THAT SHE'S RETURNED
@@ -1411,40 +1410,43 @@
 [~] [JANE, MICHAEL] I JUST KNOW IT MUST BE HER
 [WINIFRED] Oh my goodness, she'll be here any moment. Now, where is George?
 [STAGE] (knocks on the door of the study)
-[~] [GEORGE,DEAR] YOU'RE GOING TO BE SURPRISED-
+[~] [WINIFRED] GEORGE,DEAR
+[~] [WINIFRED] YOU'RE GOING TO BE SURPRISED-
 [STAGE] (The door opens and a battle-weary GEORGE appears.)
 [GEORGE] Winifred, you know very well I hate surprises at the best of times.
 [WINIFRED] Not this one. Oh George, I do believe you're going to be proud of me for once!
 [STAGE] (studies GEORGE, straightens his tie)
-[~] [ITS PERFECTLY TRUE,] CAN REALLY MAKE A DIFFERENCE.
-[~] [ITS PERFECTLY TRUE,] I'VE FOUND HER FOR YOU.
-[~] [AND NOW WE'LL REGAIN] A HOME YOU CAN BE PROUD OF IN CHERRY TREE LANE.
-[AND NOW WE'LL REGAIN] Hurry up everybody! Into the hall! I want her to find everything
-[SPIC AND SPAN.] (ALL start to assemble in a nervous twitter.) -73 -
-[~] [JANE, MICHAEL, WINIFRED] OUR SENSE OF EXCITEMENT IS HARD TO CONTAIN .
-[~] [JANE, MICHAEL, WINIFRED] MRS. BRILL, ROBERTSON A Y
-[~] [MRS. BRILL, ROBERTSON AY] SOMEONE IS RETURNING TO CHERRY TREE
+[~] [WINIFRED] PRECISION AND ORDER
+[~] [WINIFRED] ITS PERFECTLY TRUE,
+[~] [WINIFRED] CAN REALLY MAKE A DIFFERENCE.
+[~] [WINIFRED] I'VE FOUND HER FOR YOU.
+[~] [WINIFRED] "CLEAR THINKING, SOUND JUDGEMENT."
+[~] [WINIFRED] AND NOW WE'LL REGAIN
+[~] [WINIFRED] A HOME YOU CAN BE PROUD OF IN CHERRY TREE LANE.
+[WINIFRED] Hurry up everybody! Into the hall! I want her to find everything
+[ALL (EXECEPT GEORGE)] SPIC AND SPAN.
+[STAGE] (ALL start to assemble in a nervous twitter.)
+[PAGE#] 74
+[~] [JANE, MICHAEL, WINIFRED] OUR SENSE OF EXCITEMENT IS HARD TO CONTAIN 
+[~] [MRS. BRILL, ROBERTSON AY] ORDER IS RETURNING
+[~] [JANE, MICHAEL, WINIFRED] WONDER IS RETURNING,
+[~] [JANE, MICHAEL, WINIFRED, MRS. BRILL, ROBERTSON AY] SOMEONE IS RETURNING TO CHERRY TREE
 [STAGE] (MISS ANDREW enters, a formidable-looking woman of uncertain age.)
-[~] [GEORGE, WINIFRED, JANE, MICHAEL,] MRS. BRILL, ROBERTSON A Y, MISS ANDREW
+[~] [GEORGE, WINIFRED, JANE, MICHAEL, MRS. BRILL, ROBERTSON A Y, MISS ANDREW] LANE!
 [MISS ANDREW] Good morning.
 [GEORGE] The Holy Terror!
 [STAGE] (GEORGE runs out of the house.)
 [WINIFRED] Miss Andrew! It's so lovely to meet you at last! I do hope you had a good journey.
-[WINIFRED] (The terrifying MISS ANDREW drops her bag and advances into the room with a
-[WINIFRED] covered birdcage. ROBERSTON A Y struggles to move the surprisingly heavy bag to a
-[WINIFRED] table.)
-[MISS ANDREW] It was thoroughly unpleasant. I never enjoy traveL You must be poor George's wife.
-[MISS ANDREW] Your flowerbeds are disgracefully untidy! Take my advice: plant evergreens . Or
-[MISS ANDREW] better still, have nothing there at all, just a plain cement courtyard.
+[STAGE] (The terrifying MISS ANDREW drops her bag and advances into the room with a covered birdcage. ROBERTSON AY struggles to move the surprisingly heavy bag to a table.)
+[MISS ANDREW] It was thoroughly unpleasant. I never enjoy travel You must be poor George's wife. Your flowerbeds are disgracefully untidy! Take my advice: plant evergreens . Or better still, have nothing there at all, just a plain cement courtyard.
 [WINIFRED] But dear Miss Andrew, I am so fond of flowers.
 [MISS ANDREW] Then you are a very silly woman. Where did George go?
 [WINIFRED] He ...
 [STAGE] (looks around)
 [WINIFRED] I'm afraid he had ... an urgent appointment.
+[PAGE#] 75
 [MISS ANDREW] For which no doubt he was late as usual.
-[MISS ANDREW] (MISS ANDREW removes a poinsettia from a sideboard, passes it to WINIFRED, and
-[MISS ANDREW] sets her birdcage down in its place. WINIFRED passes the plant to MRS. BRILL.
-[MISS ANDREW] MISS ANDREW looks about with a sneer.)
+[STAGE] (MISS ANDREW removes a poinsettia from a sideboard, passes it to WINIFRED, and sets her birdcage down in its place. WINIFRED passes the plant to MRS. BRILL. MISS ANDREW looks about with a sneer.)
 [MISS ANDREW] It's not much of a house, is it?
 [WINIFRED] We like it.
 [MISS ANDREW] Then it doesn't take a lot to keep you happy. Look at the dust! There! And there!
@@ -1460,101 +1462,88 @@
 [MISS ANDREW] Impudent boy!
 [STAGE] (to JANE)
 [MISS ANDREW] You're Jane, I suppose. Why aren't you wearing stockings?
-[JANE] 1 don't like them.
-[MISS ANDREW] Tut! What manners! I can see there is not a minute to lose! -75 -
-[SONG] #15-Bri11/~tol1c Ill/d Treacle (Part 1) Miss Andr(\vv
-[STAGE] (MISS ANDREW)
-[~] [-76 - MARY POPPINS] THESE CHILDREN HAVE BEEN SPOILED .
-[~] [-76 - MARY POPPINS] I'VE ARRIVED HERE JUST IN TIME.
-[~] [-76 - MARY POPPINS] BY CHANCE I'VE BROUGHT THE PUNISHMENT
-[~] [-76 - MARY POPPINS] THAT BEST BEFITS THE CRIME.
-[~] [-76 - MARY POPPINS] BRIMSTONE AND TREACLE AND COD-LIVER OIL,
-[~] [LIBERAL DOSES OF EACH.] THESE ARE THE TREATS FROM WHICH CHILDREN RECOIL,
-[~] [LIBERAL DOSES OF EACH.] THE LESSONS I'M GOING TO TEACH.
-[~] [LIBERAL DOSES OF EACH.] JUST FOLLOW MY MODEL AND DON'T MOLLY-CODDLE.
-[~] [LIBERAL DOSES OF EACH.] IT MAY LEAD THE IRKSOME TO IRK.
-[~] [LIBERAL DOSES OF EACH.] SO SEEK SATISFACTION FROM PUNITIVE ACTION.
-[~] [LIBERAL DOSES OF EACH.] BRIMSTONE AND TREACLE WILL WORK.
-[LIBERAL DOSES OF EACH.] Open!
-[LIBERAL DOSES OF EACH.] (MISS ANDREW has taken a terrifying-looking bottle and a large spoon out of her bag.
-[LIBERAL DOSES OF EACH.] At first the CHILDREN eye the medicine with curiosity: perhaps it's the same as Mary
-[LIBERAL DOSES OF EACH.] Poppins's magic medicine. But MISS ANDREW pushes the spoon into the mouth of
-[LIBERAL DOSES OF EACH.] JANE, who gags with disgust, and then she turns to MICHAEL.)
+[JANE] I don't like them
+[MISS ANDREW] Tut! What manners! I can see there is not a minute to lose! 
+[SONG] #15- Brimstone and Treacle (Part 1) Miss Andrew
+[PAGE#] 76
+[~] [MISS ANDREW] THESE CHILDREN HAVE BEEN SPOILED .
+[~] [MISS ANDREW] I'VE ARRIVED HERE JUST IN TIME.
+[~] [MISS ANDREW] BY CHANCE I'VE BROUGHT THE PUNISHMENT
+[~] [MISS ANDREW] THAT BEST BEFITS THE CRIME.
+[~] [MISS ANDREW] BRIMSTONE AND TREACLE AND COD-LIVER OIL,
+[~] [MISS ANDREW] LIBERAL DOSES OF EACH.
+[~] [MISS ANDREW] THESE ARE THE TREATS FROM WHICH CHILDREN RECOIL,
+[~] [MISS ANDREW] THE LESSONS I'M GOING TO TEACH.
+[~] [MISS ANDREW] JUST FOLLOW MY MODEL AND DON'T MOLLY-CODDLE.
+[~] [MISS ANDREW] IT MAY LEAD THE IRKSOME TO IRK.
+[~] [MISS ANDREW] SO SEEK SATISFACTION FROM PUNITIVE ACTION.
+[~] [MISS ANDREW] BRIMSTONE AND TREACLE WILL WORK.
+[MISS ANDREW] Open!
+[STAGE] (MISS ANDREW has taken a terrifying-looking bottle and a large spoon out of her bag. At first the CHILDREN eye the medicine with curiosity: perhaps it's the same as Mary Poppins's magic medicine. But MISS ANDREW pushes the spoon into the mouth of JANE, who gags with disgust, and then she turns to MICHAEL.)
 [MICHAEL] Does it taste as bad as it smells?
 [MISS ANDREW] Worse!
 [MICHAEL] Do I have to?
 [STAGE] (MICHAEL has appealed to the spellbound WINIFRED.)
 [WINIFRED] Well,I-
 [MISS ANDREW] Open!
-[MISS ANDREW] (MICHAEL obeys. Unconsciously, WINIFRED opens her mouth as well. MICHAEL
-[MISS ANDREW] swallows and splutters in disgust.)
+[STAGE] (MICHAEL obeys. Unconsciously, WINIFRED opens her mouth as well. MICHAEL swallows and splutters in disgust.)
 [~] [MISS ANDREW] BRIMSTONE AND TREACLE AND CARBOLIC SOAP,
 [~] [MISS ANDREW] THESE ARE THE TOOLS OF MY TRADE.
 [~] [MISS ANDREW] WITH SPOONFULS OF SUGAR, YOU DON'T HAVE A HOPE
 [~] [MISS ANDREW] OF SEEING THAT CHANGES ARE MADE.
-[STAGE] (MISS ANDREW)
-[~] [A1ARY POPPINS] WHERE MANNERS ARE CHRONIC, MY TINCTURE'S THE TONIC
-[~] [A1ARY POPPINS] THAT'S CERTAIN TO WIPE OFF A SMIRK.
-[~] [A1ARY POPPINS] JUST POUR OUT A RATION IN MATRONLY FASHION.
-[~] [A1ARY POPPINS] BRIMSTONE AND TREACLE WILL WORK.
-[A1ARY POPPINS] Your son will go to boarding school at once! As for the girl, I shall take charge of her
-[A1ARY POPPINS] myself!
+[PAGE#] 77
+[~] [MISS ANDREW] WHERE MANNERS ARE CHRONIC, MY TINCTURE'S THE TONIC
+[~] [MISS ANDREW] THAT'S CERTAIN TO WIPE OFF A SMIRK.
+[~] [MISS ANDREW] JUST POUR OUT A RATION IN MATRONLY FASHION.
+[~] [MISS ANDREW] BRIMSTONE AND TREACLE WILL WORK.
+[MISS ANDREW] Your son will go to boarding school at once! As for the girl, I shall take charge of her myself!
 [STAGE] (This thought is too terrible for the CHILDREN even to contemplate.)
-[~] [A1ARY POPPINS] I WON'T STAND FOR WHINING OR WHINGEING OR WHIMPERING,
-[~] [A1ARY POPPINS] CRYING OR LYING OR SOBBING OR SIMPERING.
-[~] [A1ARY POPPINS] I FEAR IT'S CLEAR THAT IN THESE TWO SUCH BAD HABITS LURK.
-[~] [A1ARY POPPINS] FIRST THREATEN TO THROTTLE THEN UNCORK THE BOTTLE.
-[~] [A1ARY POPPINS] BRIMSTONE AND TREACLE WILL WORK.
+[~] [MISS ANDREW] I WON'T STAND FOR WHINING OR WHINGEING OR WHIMPERING,
+[~] [MISS ANDREW] CRYING OR LYING OR SOBBING OR SIMPERING.
+[~] [MISS ANDREW] I FEAR IT'S CLEAR THAT IN THESE TWO SUCH BAD HABITS LURK.
+[~] [MISS ANDREW] FIRST THREATEN TO THROTTLE THEN UNCORK THE BOTTLE.
+[~] [MISS ANDREW] BRIMSTONE AND TREACLE WILL WORK.
 [STAGE] (tosses bag to WINIFRED)
-[A1ARY POPPINS] Now, show me my room.
-[~] [A1ARY POPPINS] BRIMSTONE AND TREACLE WILL WORK! -77 -
-[A1ARY POPPINS] (WINIFRED and MISS ANDREW go up the stairs to the nursery, leaving the stunned
-[A1ARY POPPINS] CHILDREN and SERVANTS.)
+[MISS ANDREW] Now, show me my room.
+[~] [MISS ANDREW] BRIMSTONE AND TREACLE WILL WORK!
+[STAGE] (WINIFRED and MISS ANDREW go up the stairs to the nursery, leaving the stunned CHILDREN and SERVANTS.)
 [MRS. BRILL] She can't stay! They'll have to dismiss her.
 [STAGE] (confidentially to ROBERTSON AY)
-[MRS. BRILL] You know, I never thought I'd say this, but I'm disappointed, truly I am. I really
-[MRS. BRILL] thought it was going to be, yeah, you know, 'er, with the umbrella.
+[MRS. BRILL] You know, I never thought I'd say this, but I'm disappointed, truly I am. I really thought it was going to be, yeah, you know, 'er, with the umbrella.
 [STAGE] (MRS. BRILL and ROBERTSON AY exit. The CHILDREN are completely still.)
 [JANE] What are we going to do?
 [MICHAEL] The only thing we can do: run away!
-[SONG] #15A -RlIJ/ A"((,I7Y orchestra
+[SONG] #15A - Run Away orchestra
 [STAGE] (MICHAEL runs out of the house, followed by JANE.)
+[PAGE#] 78
 [HEADER] SCENE 2: LET'S GO FLY A KITE -Park
-[STAGE] (At the park, BERT works on a welcoming painting. As he surveys the sky, the
-[STAGE] CHILDREN run straight into him. Perhaps it's the shock, perhaps it's because he's
-[STAGE] covered in soot, but they don't know him. They scream.)
+[STAGE] (At the park, BERT works on a welcoming painting. As he surveys the sky, the CHILDREN run straight into him. Perhaps it's the shock, perhaps it's because he's covered in soot, but they don't know him. They scream.)
 [BERT] Easy now, your old friend ain't going to hurt you.
 [JANE] Oh Bert, it's you.
 [MICHAEL] You're filthy.
-[BERT] P'raps a smudge or two. It so 'appens today I'm a chimney sweep. So, what's the
-[BERT] matter and who's after you?
+[BERT] P'raps a smudge or two. It so 'appens today I'm a chimney sweep. So, what's the matter and who's after you?
 [JANE] The nastiest nanny in the world.
-[BERT] The nastiest nanny in the world, eh? Well, you two should know. You've been
-[BERT] through enough of 'em. Is she really as bad as all that?
+[BERT] The nastiest nanny in the world, eh? Well, you two should know. You've been through enough of 'em. Is she really as bad as all that?
 [MICHAEL] She looks like something that would eat its young.
 [JANE] Miss Andrew was Daddy's nanny.
 [MICHAEL] Which explains a lot.
-[JANE] Poor Daddy. Ever since he stopped working, he just sits and mopes... Mary Poppins
-[JANE] used to say he needed our help, but now it's too late.
-[SONG] #16 -Lrf'~ Go Fly 11 Kite Bert, Park Keeper, JClne, Michael,
-[STAGE] Kite Flyers, M<Hy Poppins
-[BERT] Oh, I wouldn't say that. I tell you what, why don't we start things off with a bit of a
-[BERT] shake for good luck?
+[JANE] Poor Daddy. Ever since he stopped working, he just sits and mopes... Mary Poppins used to say he needed our help, but now it's too late.
+[SONG] #16 -Let's Go Fly 11 Kite Bert, Park Keeper, Jane, Michael, Kite Flyers, Mary Poppins
+[BERT] Oh, I wouldn't say that. I tell you what, why don't we start things off with a bit of a shake for good luck?
 [STAGE] (BERT holds out his hand.)
+[PAGE#] 79
 [JANE] Why would shaking hands with you bring us luck?
 [BERT] Didn't anyone ever tell you it's lucky to shake a sweep's hand?
 [STAGE] (JANE does so, and so does MICHAEL.)
 [MICHAEL] But what do you do if you want some luck?
 [BERT] Oh, well I shakes 'ands with m'self. Now ... what have we got here?
-[BERT] (BERT searches in his capacious bag and extracts a large and beautiful red kite with
-[BERT] streamers.)
+[STAGE] (BERT searches in his capacious bag and extracts a large and beautiful red kite with streamers.)
 [JANE] Michael, look! It's a real one!
 [STAGE] (BERT holds the kite out to MICHAEL, who is resistant.)
 [JANE] What's the matter? You've always wanted to fly a proper kite.
 [MICHAEL] I've always wanted to fly one with Daddy.
-[BERT] (crouches before MICHAEL, speaking gently) -79 -
-[BERT] 0' course you have. But you need to know how it's done. Get some training in, and
-[BERT] you'll make him the proudest father in the country.
+[STAGE] (crouches before MICHAEL, speaking gently) 
+[BERT] O' course you have. But you need to know how it's done. Get some training in, and you'll make him the proudest father in the country.
 [MICHAEL] Do you really think so? You're not just saying that?
 [STAGE] (Oh, how MICHAEL wants to believe this.)
 [BERT] Did I say the country? The whole bloornin' Empire, more like.
@@ -1565,10 +1554,12 @@
 [STAGE] (MICHAEL takes the string, and BERT throws the kite up in the air.)
 [~] [BERT] OH, LET'S GO FLY A KITE
 [~] [BERT] UP TO THE HIGHEST HEIGHT.
-[~] [-80 - MARY POPPINS] LET'S GO FLY A KITE
-[~] [-80 - MARY POPPINS] AND SEND IT SOARING (BERT)
-[~] [UP THROUGH THE ATMOSPHERE,] UP WHERE THE AIR IS CLEAR.
-[~] [UP THROUGH THE ATMOSPHERE,] OH, LET'S GO FLY A KITE.
+[PAGE#] 80
+[~] [BERT] LET'S GO FLY A KITE
+[~] [BERT] AND SEND IT SOARING
+[~] [BERT] UP THROUGH THE ATMOSPHERE,
+[~] [BERT] UP WHERE THE AIR IS CLEAR.
+[~] [BERT] OH, LET'S GO FLY A KITE.
 [STAGE] (The wind dies and the kite falls.)
 [JANE] Try again.
 [STAGE] (BERT picks up the kite as MICHAEL winds the string.)
@@ -1581,22 +1572,24 @@
 [STAGE] (grabs the string)
 [PARK KEEPER] Now we'll wind her up, give her a run, and away she'll go!
 [STAGE] (also grabs the string)
-[PARK KEEPER] I want to do it. MICHAEL
+[MICHAEL] I want to do it. 
 [PARK KEEPER] But you'll let me help, won't you? Seeing as I haven't flown a kite since I was a boy.
 [STAGE] (relinquishes the string)
-[PARK KEEPER] Oh, all right. MICHAEL
+[MICHAEL] Oh, all right. 
 [STAGE] (The PARK KEEPER starts to run this way and that as the kite takes wing.)
+[PAGE#] 81
 [~] [BERT, PARK KEEPER] WHEN YOU SEND IT FLYING UP THERE,
 [~] [BERT, PARK KEEPER] ALL AT ONCE YOU'RE LIGHTER THAN AIR.
 [~] [BERT, PARK KEEPER] YOU CAN DANCE ON THE BREEZE OVER 'OUSES AND TREES
 [~] [BERT, PARK KEEPER] WITH YOUR FIST HOLDING TIGHT TO THE STRING OF YOUR KITE.
-[STAGE] (Other KITE FL YERS enter with their kites.)
-[~] [BERT, PARK KEEPER] BERT, PARK KEEPER, JANE, MICHAEL, KITE FLYERS
-[~] [BERT, PARK KEEPER] OH! LET'S GO FLY A KITE
-[~] [BERT, PARK KEEPER] UP TO THE HIGHEST HEIGHT.
-[~] [BERT, PARK KEEPER] LET'S GO FLY A KITE
-[~] [UP THROUGH THE ATMOSPHERE,] UP WHERE THE AIR IS CLEAR.
-[~] [UP THROUGH THE ATMOSPHERE,] OH, LET'S GO FLY A KITE.
+[STAGE] (Other KITE FLYERS enter with their kites.)
+[~] [BERT, PARK KEEPER, JANE, MICHAEL, KITE FLYERS] OH! LET'S GO FLY A KITE
+[~] [BERT, PARK KEEPER, JANE, MICHAEL, KITE FLYERS] UP TO THE HIGHEST HEIGHT.
+[~] [BERT, PARK KEEPER, JANE, MICHAEL, KITE FLYERS] LET'S GO FLY A KITE
+[~] [BERT, PARK KEEPER, JANE, MICHAEL, KITE FLYERS] AND SEND IT SOARING
+[~] [BERT, PARK KEEPER, JANE, MICHAEL, KITE FLYERS] UP THROUGH THE ATMOSPHERE,
+[~] [BERT, PARK KEEPER, JANE, MICHAEL, KITE FLYERS] UP WHERE THE AIR IS CLEAR.
+[~] [BERT, PARK KEEPER, JANE, MICHAEL, KITE FLYERS] OH, LET'S GO FLY A KITE.
 [STAGE] (Bert's kite has flown and now vanishes from sight.)
 [BERT] Reel it in!
 [MICHAEL] I can't! It's stuck.
@@ -1604,13 +1597,11 @@
 [PARK KEEPER] Let me.
 [STAGE] (But it's no good. The kite would seem to be stuck fast.)
 [BERT] You can do it. Pull one more time.
-[AH-AH-AH-AH-AH-AH] (Now the wind and the music reach a wild crescendo as, slowly, from high above, the
-[AH-AH-AH-AH-AH-AH] familiar figure of .MARY POPPINS comes into view.)
+[~] [MARY POPPINS] AH-AH-AH-AH-AH-AH
+[STAGE] (Now the wind and the music reach a wild crescendo as, slowly, from high above, the familiar figure of .MARY POPPINS comes into view.)
 [~] [KITE FLYERS] AH! LET'S GO FLY A KITE
 [~] [KITE FLYERS] UP TO THE HIGHEST HEIGHT.
-[~] [KITE FLYERS] OH, LET'S GO FLY A KITE. -81 -
-
-
+[~] [KITE FLYERS] OH, LET'S GO FLY A KITE. 
 [PAGE#] 82
 [SATGE] (In one hand MARY POPPINS holds the kite, in the other the carpet bag and the parrot-handled umbrella. She descends to the stage to the amazement of the CHILDREN and the PARK KEEPER alike. JANE runs forward.)
 [JANE] I knew it! Oh, Mary Poppins, I knew you'd come back!
